@@ -1,0 +1,473 @@
+50 # patients
+1 # trees patient 0
+3 # edges tree 0
+ASXL1 SRSF2
+FLT3-ITD ASXL1
+Root FLT3-ITD
+1 # trees patient 1
+3 # edges tree 0
+DNMT3A NPM1
+NRAS DNMT3A
+Root NRAS
+2 # trees patient 2
+3 # edges tree 0
+DNMT3A IDH2
+IDH2 SRSF2
+Root DNMT3A
+3 # edges tree 1
+DNMT3A SRSF2
+Root DNMT3A
+SRSF2 IDH2
+1 # trees patient 3
+5 # edges tree 0
+FLT3-ITD WT1
+NPM1 FLT3-ITD
+NPM1 NRAS
+Root WT1
+WT1 NPM1
+3 # trees patient 4
+7 # edges tree 0
+IDH2 NPM1
+NPM1 FLT3
+NPM1 FLT3
+NPM1 NRAS
+NRAS FLT3-ITD
+NRAS NRAS
+Root IDH2
+7 # edges tree 1
+IDH2 NPM1
+NPM1 FLT3-ITD
+NPM1 FLT3
+NPM1 FLT3
+NPM1 NRAS
+NPM1 NRAS
+Root IDH2
+7 # edges tree 2
+IDH2 NPM1
+NPM1 FLT3-ITD
+NPM1 FLT3
+NPM1 NRAS
+NRAS FLT3
+NRAS NRAS
+Root IDH2
+1 # trees patient 5
+4 # edges tree 0
+NRAS EZH2
+Root NPM1
+Root NRAS
+Root SRSF2
+1 # trees patient 6
+2 # edges tree 0
+NRAS RUNX1
+Root NRAS
+3 # trees patient 7
+5 # edges tree 0
+FLT3 FLT3
+NRAS FLT3-ITD
+NRAS FLT3
+Root FLT3
+Root NRAS
+5 # edges tree 1
+NRAS FLT3-ITD
+Root FLT3
+Root FLT3
+Root FLT3
+Root NRAS
+5 # edges tree 2
+Root FLT3-ITD
+Root FLT3
+Root FLT3
+Root FLT3
+Root NRAS
+1 # trees patient 8
+3 # edges tree 0
+IDH1 DNMT3A
+Root IDH1
+Root IDH2
+1 # trees patient 9
+4 # edges tree 0
+DNMT3A SRSF2
+IDH2 DNMT3A
+Root IDH2
+SRSF2 NRAS
+1 # trees patient 10
+5 # edges tree 0
+DNMT3A U2AF1
+FLT3-ITD WT1
+Root DNMT3A
+U2AF1 FLT3-ITD
+U2AF1 FLT3
+3 # trees patient 11
+8 # edges tree 0
+KRAS KRAS
+KRAS NRAS
+KRAS NRAS
+KRAS NRAS
+Root KRAS
+Root NRAS
+Root NRAS
+Root NRAS
+8 # edges tree 1
+KRAS NRAS
+Root KRAS
+Root KRAS
+Root NRAS
+Root NRAS
+Root NRAS
+Root NRAS
+Root NRAS
+8 # edges tree 2
+Root KRAS
+Root KRAS
+Root NRAS
+Root NRAS
+Root NRAS
+Root NRAS
+Root NRAS
+Root NRAS
+1 # trees patient 12
+5 # edges tree 0
+DNMT3A SF3B1
+RUNX1 FLT3-ITD
+RUNX1 FLT3
+Root DNMT3A
+SF3B1 RUNX1
+1 # trees patient 13
+2 # edges tree 0
+PTPN11 NPM1
+Root PTPN11
+2 # trees patient 14
+6 # edges tree 0
+NPM1 NRAS
+NPM1 PTPN11
+NPM1 PTPN11
+PTPN11 IDH1
+PTPN11 IDH2
+Root NPM1
+6 # edges tree 1
+NPM1 NRAS
+NPM1 PTPN11
+NPM1 PTPN11
+PTPN11 IDH2
+Root IDH1
+Root NPM1
+2 # trees patient 15
+8 # edges tree 0
+DNMT3A FLT3-ITD
+DNMT3A NRAS
+NRAS FLT3
+NRAS FLT3
+NRAS NRAS
+NRAS NRAS
+Root U2AF1
+U2AF1 DNMT3A
+8 # edges tree 1
+DNMT3A FLT3-ITD
+DNMT3A FLT3
+DNMT3A NRAS
+NRAS FLT3
+NRAS NRAS
+NRAS NRAS
+Root U2AF1
+U2AF1 DNMT3A
+2 # trees patient 16
+3 # edges tree 0
+IDH2 RUNX1
+Root SRSF2
+SRSF2 IDH2
+3 # edges tree 1
+IDH2 SRSF2
+Root IDH2
+SRSF2 RUNX1
+2 # trees patient 17
+3 # edges tree 0
+FLT3 NPM1
+Root WT1
+WT1 FLT3
+3 # edges tree 1
+NPM1 FLT3
+Root WT1
+WT1 NPM1
+2 # trees patient 18
+6 # edges tree 0
+DNMT3A FLT3
+DNMT3A NPM1
+NPM1 FLT3
+NPM1 KRAS
+NPM1 NRAS
+Root DNMT3A
+6 # edges tree 1
+DNMT3A NPM1
+NPM1 FLT3
+NPM1 FLT3
+NPM1 KRAS
+NPM1 NRAS
+Root DNMT3A
+1 # trees patient 19
+7 # edges tree 0
+NPM1 KRAS
+NPM1 KRAS
+NPM1 KRAS
+NPM1 NRAS
+NPM1 NRAS
+NPM1 PTPN11
+Root NPM1
+1 # trees patient 20
+3 # edges tree 0
+DNMT3A NPM1
+NPM1 NRAS
+Root DNMT3A
+1 # trees patient 21
+2 # edges tree 0
+Root IDH2
+Root KRAS
+1 # trees patient 22
+6 # edges tree 0
+DNMT3A NPM1
+NPM1 FLT3-ITD
+NPM1 FLT3
+NPM1 NRAS
+NPM1 NRAS
+Root DNMT3A
+3 # trees patient 23
+7 # edges tree 0
+NRAS KRAS
+NRAS TP53
+Root IDH2
+Root U2AF1
+U2AF1 KRAS
+U2AF1 U2AF1
+U2AF1 NRAS
+7 # edges tree 1
+NRAS IDH2
+NRAS TP53
+Root U2AF1
+U2AF1 KRAS
+U2AF1 KRAS
+U2AF1 NRAS
+U2AF1 U2AF1
+7 # edges tree 2
+NRAS IDH2
+NRAS KRAS
+NRAS TP53
+Root U2AF1
+U2AF1 NRAS
+U2AF1 KRAS
+U2AF1 U2AF1
+3 # trees patient 24
+5 # edges tree 0
+NRAS FLT3-ITD
+NRAS NRAS
+NRAS NRAS
+Root NRAS
+Root NRAS
+5 # edges tree 1
+NRAS NRAS
+Root FLT3-ITD
+Root NRAS
+Root NRAS
+Root NRAS
+5 # edges tree 2
+NRAS FLT3-ITD
+NRAS NRAS
+NRAS NRAS
+NRAS NRAS
+Root NRAS
+1 # trees patient 25
+3 # edges tree 0
+FLT3-ITD WT1
+Root WT1
+WT1 FLT3-ITD
+1 # trees patient 26
+3 # edges tree 0
+DNMT3A SRSF2
+IDH2 DNMT3A
+Root IDH2
+1 # trees patient 27
+9 # edges tree 0
+IDH2 SRSF2
+Root TP53
+SRSF2 KRAS
+SRSF2 NRAS
+SRSF2 NRAS
+SRSF2 PTPN11
+SRSF2 PTPN11
+TP53 WT1
+WT1 IDH2
+1 # trees patient 28
+5 # edges tree 0
+ASXL1 RUNX1
+IDH1 ASXL1
+RUNX1 DNMT3A
+Root SRSF2
+SRSF2 IDH1
+2 # trees patient 29
+4 # edges tree 0
+ASXL1 SRSF2
+RUNX1 IDH2
+Root ASXL1
+SRSF2 RUNX1
+4 # edges tree 1
+ASXL1 RUNX1
+RUNX1 SRSF2
+Root ASXL1
+SRSF2 IDH2
+1 # trees patient 30
+2 # edges tree 0
+DNMT3A FLT3-ITD
+Root DNMT3A
+1 # trees patient 31
+4 # edges tree 0
+Root U2AF1
+U2AF1 IDH2
+IDH2 ASXL1
+ASXL1 NRAS
+1 # trees patient 32
+4 # edges tree 0
+FLT3-ITD WT1
+NPM1 WT1
+Root FLT3-ITD
+WT1 NPM1
+1 # trees patient 33
+4 # edges tree 0
+DNMT3A FLT3-ITD
+FLT3-ITD TP53
+Root DNMT3A
+TP53 NPM1
+1 # trees patient 34
+4 # edges tree 0
+IDH2 WT1
+Root IDH2
+Root TP53
+WT1 NPM1
+2 # trees patient 35
+4 # edges tree 0
+DNMT3A NPM1
+NPM1 NRAS
+NRAS IDH2
+Root DNMT3A
+4 # edges tree 1
+DNMT3A IDH2
+IDH2 NRAS
+NRAS NPM1
+Root DNMT3A
+2 # trees patient 36
+3 # edges tree 0
+FLT3 NRAS
+Root FLT3
+Root NRAS
+3 # edges tree 1
+Root FLT3
+Root NRAS
+Root NRAS
+2 # trees patient 37
+3 # edges tree 0
+FLT3-ITD NPM1
+NRAS FLT3-ITD
+Root NRAS
+3 # edges tree 1
+NPM1 NRAS
+NRAS FLT3-ITD
+Root NPM1
+3 # trees patient 38
+3 # edges tree 0
+NRAS FLT3-ITD
+NRAS PTPN11
+Root NRAS
+3 # edges tree 1
+NRAS FLT3-ITD
+Root NRAS
+Root PTPN11
+3 # edges tree 2
+Root FLT3-ITD
+Root NRAS
+Root PTPN11
+2 # trees patient 39
+4 # edges tree 0
+Root NRAS
+Root NRAS
+Root SF3B1
+SF3B1 KRAS
+4 # edges tree 1
+KRAS SF3B1
+Root KRAS
+Root NRAS
+Root NRAS
+2 # trees patient 40
+4 # edges tree 0
+GATA2 PTPN11
+GATA2 PTPN11
+Root SF3B1
+SF3B1 GATA2
+4 # edges tree 1
+GATA2 SF3B1
+Root GATA2
+SF3B1 PTPN11
+SF3B1 PTPN11
+1 # trees patient 41
+2 # edges tree 0
+Root SRSF2
+SRSF2 NPM1
+1 # trees patient 42
+6 # edges tree 0
+FLT3 WT1
+NPM1 FLT3-ITD
+NPM1 FLT3
+NPM1 FLT3
+NPM1 KRAS
+Root NPM1
+1 # trees patient 43
+2 # edges tree 0
+Root WT1
+WT1 NRAS
+1 # trees patient 44
+6 # edges tree 0
+IDH1 NPM1
+NPM1 FLT3-ITD
+NPM1 PTPN11
+NPM1 PTPN11
+NPM1 PTPN11
+Root IDH1
+1 # trees patient 45
+3 # edges tree 0
+IDH2 SRSF2
+Root IDH2
+SRSF2 RUNX1
+1 # trees patient 46
+4 # edges tree 0
+DNMT3A FLT3-ITD
+FLT3-ITD NPM1
+NPM1 KRAS
+Root DNMT3A
+2 # trees patient 47
+5 # edges tree 0
+NPM1 FLT3-ITD
+NPM1 NRAS
+NPM1 PTPN11
+NPM1 WT1
+Root NPM1
+5 # edges tree 1
+NPM1 FLT3-ITD
+NPM1 NRAS
+NPM1 PTPN11
+NPM1 WT1
+Root NPM1
+1 # trees patient 48
+4 # edges tree 0
+IDH2 NPM1
+NPM1 FLT3-ITD
+NPM1 KIT
+Root IDH2
+2 # trees patient 49
+5 # edges tree 0
+DNMT3A SFB1
+FLT3 RUNX1
+RUNX1 JAK2
+Root DNMT3A
+SFB1 FLT3
+5 # edges tree 1
+DNMT3A JAK2
+DNMT3A SFB1
+FLT3 RUNX1
+Root DNMT3A
+SFB1 FLT3

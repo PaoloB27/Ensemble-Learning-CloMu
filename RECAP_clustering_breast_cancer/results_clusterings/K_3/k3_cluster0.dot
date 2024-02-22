@@ -1,0 +1,22 @@
+digraph T {
+	label="Number of trees: 306\nNormalized cost: 51.2"
+	4 [label="TP53"]
+	3 [label="PIK3CA"]
+	2 [label="GL"]
+	1 [label="GATA3"]
+	0 [label="CDH1"]
+	4 -> 3 [label="2"]
+	4 -> 1 [label="3"]
+	3 -> 4 [label="40"]
+	3 -> 1 [label="23"]
+	3 -> 0 [label="17"]
+	2 -> 4 [label="3"]
+	2 -> 3 [label="227",penwidth=3,color=red]
+	2 -> 1 [label="23"]
+	2 -> 0 [label="62"]
+	1 -> 4 [label="2"]
+	1 -> 3 [label="18"]
+	0 -> 4 [label="3"]
+	0 -> 3 [label="59"]
+	0 -> 1 [label="1"]
+}

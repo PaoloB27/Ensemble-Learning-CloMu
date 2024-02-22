@@ -1,0 +1,6542 @@
+2 # clusters
+5 # edges in consensus tree 0, distance 34.8
+GL TP53 20.25
+GL dummy 24.75
+dummy CDH1 23.25
+dummy GATA3 23.25
+dummy PIK3CA 17.75
+5 # edges in consensus tree 1, distance 103.4
+GL dummy 43.25
+dummy CDH1 31.6667
+dummy GATA3 33.25
+dummy PIK3CA 21.75
+dummy TP53 43.25
+816 # patients
+0 # cluster index for patient 0, distance 0
+0 # selected input tree index for patient 0
+5 # edges in selected input tree for patient 0
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 1, distance 0.2
+0 # selected input tree index for patient 1
+5 # edges in selected input tree for patient 1
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 2, distance 0.4
+0 # selected input tree index for patient 2
+5 # edges in selected input tree for patient 2
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 3, distance 0.4
+0 # selected input tree index for patient 3
+5 # edges in selected input tree for patient 3
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 4, distance 0
+0 # selected input tree index for patient 4
+5 # edges in selected input tree for patient 4
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 5, distance 0.4
+0 # selected input tree index for patient 5
+5 # edges in selected input tree for patient 5
+GL PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 6, distance 0
+0 # selected input tree index for patient 6
+5 # edges in selected input tree for patient 6
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 7, distance 0.2
+0 # selected input tree index for patient 7
+5 # edges in selected input tree for patient 7
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 8, distance 0.2
+0 # selected input tree index for patient 8
+5 # edges in selected input tree for patient 8
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 9, distance 0.4
+0 # selected input tree index for patient 9
+5 # edges in selected input tree for patient 9
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 10, distance 0
+0 # selected input tree index for patient 10
+5 # edges in selected input tree for patient 10
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 11, distance 0.4
+0 # selected input tree index for patient 11
+5 # edges in selected input tree for patient 11
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 12, distance 0.2
+0 # selected input tree index for patient 12
+5 # edges in selected input tree for patient 12
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 13, distance 0.2
+0 # selected input tree index for patient 13
+5 # edges in selected input tree for patient 13
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 14, distance 0.4
+0 # selected input tree index for patient 14
+5 # edges in selected input tree for patient 14
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 15, distance 0.2
+0 # selected input tree index for patient 15
+5 # edges in selected input tree for patient 15
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 16, distance 0
+0 # selected input tree index for patient 16
+5 # edges in selected input tree for patient 16
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 17, distance 0.4
+0 # selected input tree index for patient 17
+5 # edges in selected input tree for patient 17
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 18, distance 0.2
+0 # selected input tree index for patient 18
+5 # edges in selected input tree for patient 18
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 19, distance 0.2
+0 # selected input tree index for patient 19
+5 # edges in selected input tree for patient 19
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 20, distance 0.2
+0 # selected input tree index for patient 20
+5 # edges in selected input tree for patient 20
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 21, distance 0.2
+0 # selected input tree index for patient 21
+5 # edges in selected input tree for patient 21
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 22, distance 0
+0 # selected input tree index for patient 22
+5 # edges in selected input tree for patient 22
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 23, distance 0
+0 # selected input tree index for patient 23
+5 # edges in selected input tree for patient 23
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 24, distance 0
+0 # selected input tree index for patient 24
+5 # edges in selected input tree for patient 24
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 25, distance 0.2
+0 # selected input tree index for patient 25
+5 # edges in selected input tree for patient 25
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 26, distance 0.6
+0 # selected input tree index for patient 26
+5 # edges in selected input tree for patient 26
+TP53 PIK3CA
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+0 # cluster index for patient 27, distance 0.4
+0 # selected input tree index for patient 27
+5 # edges in selected input tree for patient 27
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 28, distance 0
+0 # selected input tree index for patient 28
+5 # edges in selected input tree for patient 28
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 29, distance 0.2
+0 # selected input tree index for patient 29
+5 # edges in selected input tree for patient 29
+TP53 GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 30, distance 0.2
+0 # selected input tree index for patient 30
+5 # edges in selected input tree for patient 30
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 31, distance 0
+0 # selected input tree index for patient 31
+5 # edges in selected input tree for patient 31
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 32, distance 0.4
+0 # selected input tree index for patient 32
+5 # edges in selected input tree for patient 32
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 33, distance 0.2
+0 # selected input tree index for patient 33
+5 # edges in selected input tree for patient 33
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 34, distance 0.4
+0 # selected input tree index for patient 34
+5 # edges in selected input tree for patient 34
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 35, distance 0.2
+0 # selected input tree index for patient 35
+5 # edges in selected input tree for patient 35
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 36, distance 0.4
+0 # selected input tree index for patient 36
+5 # edges in selected input tree for patient 36
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 37, distance 0.2
+0 # selected input tree index for patient 37
+5 # edges in selected input tree for patient 37
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 38, distance 0.4
+0 # selected input tree index for patient 38
+5 # edges in selected input tree for patient 38
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 39, distance 0
+0 # selected input tree index for patient 39
+5 # edges in selected input tree for patient 39
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 40, distance 0.4
+0 # selected input tree index for patient 40
+5 # edges in selected input tree for patient 40
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 41, distance 0.2
+0 # selected input tree index for patient 41
+5 # edges in selected input tree for patient 41
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 42, distance 0
+0 # selected input tree index for patient 42
+5 # edges in selected input tree for patient 42
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 43, distance 0.4
+0 # selected input tree index for patient 43
+5 # edges in selected input tree for patient 43
+GL CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 44, distance 0.2
+0 # selected input tree index for patient 44
+5 # edges in selected input tree for patient 44
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 45, distance 0.2
+0 # selected input tree index for patient 45
+5 # edges in selected input tree for patient 45
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 46, distance 0.4
+0 # selected input tree index for patient 46
+5 # edges in selected input tree for patient 46
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 47, distance 0
+0 # selected input tree index for patient 47
+5 # edges in selected input tree for patient 47
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 48, distance 0
+0 # selected input tree index for patient 48
+5 # edges in selected input tree for patient 48
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 49, distance 0.4
+0 # selected input tree index for patient 49
+5 # edges in selected input tree for patient 49
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 50, distance 0.4
+0 # selected input tree index for patient 50
+5 # edges in selected input tree for patient 50
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 51, distance 0.4
+0 # selected input tree index for patient 51
+5 # edges in selected input tree for patient 51
+CDH1 GATA3
+GL CDH1
+GL dummy
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 52, distance 0
+0 # selected input tree index for patient 52
+5 # edges in selected input tree for patient 52
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 53, distance 0
+0 # selected input tree index for patient 53
+5 # edges in selected input tree for patient 53
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 54, distance 0.2
+0 # selected input tree index for patient 54
+5 # edges in selected input tree for patient 54
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 55, distance 0.4
+0 # selected input tree index for patient 55
+5 # edges in selected input tree for patient 55
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 56, distance 0
+0 # selected input tree index for patient 56
+5 # edges in selected input tree for patient 56
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 57, distance 0
+0 # selected input tree index for patient 57
+5 # edges in selected input tree for patient 57
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 58, distance 0
+0 # selected input tree index for patient 58
+5 # edges in selected input tree for patient 58
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 59, distance 0.4
+0 # selected input tree index for patient 59
+5 # edges in selected input tree for patient 59
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 60, distance 0.2
+0 # selected input tree index for patient 60
+5 # edges in selected input tree for patient 60
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 61, distance 0.4
+0 # selected input tree index for patient 61
+5 # edges in selected input tree for patient 61
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 62, distance 0.4
+0 # selected input tree index for patient 62
+5 # edges in selected input tree for patient 62
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 63, distance 0.2
+0 # selected input tree index for patient 63
+5 # edges in selected input tree for patient 63
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 64, distance 0.2
+0 # selected input tree index for patient 64
+5 # edges in selected input tree for patient 64
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 65, distance 0.2
+0 # selected input tree index for patient 65
+5 # edges in selected input tree for patient 65
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 66, distance 0.2
+0 # selected input tree index for patient 66
+5 # edges in selected input tree for patient 66
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 67, distance 0.4
+0 # selected input tree index for patient 67
+5 # edges in selected input tree for patient 67
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 68, distance 0
+0 # selected input tree index for patient 68
+5 # edges in selected input tree for patient 68
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 69, distance 0.2
+0 # selected input tree index for patient 69
+5 # edges in selected input tree for patient 69
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 70, distance 0.4
+0 # selected input tree index for patient 70
+5 # edges in selected input tree for patient 70
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 71, distance 0.2
+0 # selected input tree index for patient 71
+5 # edges in selected input tree for patient 71
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 72, distance 0.2
+0 # selected input tree index for patient 72
+5 # edges in selected input tree for patient 72
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 73, distance 0
+0 # selected input tree index for patient 73
+5 # edges in selected input tree for patient 73
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 74, distance 0.4
+0 # selected input tree index for patient 74
+5 # edges in selected input tree for patient 74
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 75, distance 0.2
+0 # selected input tree index for patient 75
+5 # edges in selected input tree for patient 75
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 76, distance 0
+0 # selected input tree index for patient 76
+5 # edges in selected input tree for patient 76
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 77, distance 0.4
+0 # selected input tree index for patient 77
+5 # edges in selected input tree for patient 77
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 78, distance 0
+0 # selected input tree index for patient 78
+5 # edges in selected input tree for patient 78
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 79, distance 0.4
+0 # selected input tree index for patient 79
+5 # edges in selected input tree for patient 79
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 80, distance 0.4
+0 # selected input tree index for patient 80
+5 # edges in selected input tree for patient 80
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 81, distance 0
+0 # selected input tree index for patient 81
+5 # edges in selected input tree for patient 81
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 82, distance 0.2
+0 # selected input tree index for patient 82
+5 # edges in selected input tree for patient 82
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 83, distance 0.2
+0 # selected input tree index for patient 83
+5 # edges in selected input tree for patient 83
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 84, distance 0
+0 # selected input tree index for patient 84
+5 # edges in selected input tree for patient 84
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 85, distance 0.2
+0 # selected input tree index for patient 85
+5 # edges in selected input tree for patient 85
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 86, distance 0.2
+0 # selected input tree index for patient 86
+5 # edges in selected input tree for patient 86
+GL TP53
+GL dummy
+TP53 GATA3
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 87, distance 0
+0 # selected input tree index for patient 87
+5 # edges in selected input tree for patient 87
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 88, distance 0
+0 # selected input tree index for patient 88
+5 # edges in selected input tree for patient 88
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 89, distance 0
+0 # selected input tree index for patient 89
+5 # edges in selected input tree for patient 89
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 90, distance 0
+0 # selected input tree index for patient 90
+5 # edges in selected input tree for patient 90
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 91, distance 0.2
+0 # selected input tree index for patient 91
+5 # edges in selected input tree for patient 91
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 92, distance 0.2
+0 # selected input tree index for patient 92
+5 # edges in selected input tree for patient 92
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 93, distance 0.2
+0 # selected input tree index for patient 93
+5 # edges in selected input tree for patient 93
+TP53 GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 94, distance 0.2
+0 # selected input tree index for patient 94
+5 # edges in selected input tree for patient 94
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 95, distance 0
+0 # selected input tree index for patient 95
+5 # edges in selected input tree for patient 95
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 96, distance 0.2
+0 # selected input tree index for patient 96
+5 # edges in selected input tree for patient 96
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 97, distance 0.2
+0 # selected input tree index for patient 97
+5 # edges in selected input tree for patient 97
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 98, distance 0.2
+0 # selected input tree index for patient 98
+5 # edges in selected input tree for patient 98
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 99, distance 0
+0 # selected input tree index for patient 99
+5 # edges in selected input tree for patient 99
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 100, distance 0
+0 # selected input tree index for patient 100
+5 # edges in selected input tree for patient 100
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 101, distance 0
+0 # selected input tree index for patient 101
+5 # edges in selected input tree for patient 101
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 102, distance 0.2
+0 # selected input tree index for patient 102
+5 # edges in selected input tree for patient 102
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 103, distance 0.2
+0 # selected input tree index for patient 103
+5 # edges in selected input tree for patient 103
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 104, distance 0.6
+0 # selected input tree index for patient 104
+5 # edges in selected input tree for patient 104
+PIK3CA CDH1
+CDH1 GATA3
+GL PIK3CA
+GL dummy
+dummy TP53
+0 # cluster index for patient 105, distance 0
+0 # selected input tree index for patient 105
+5 # edges in selected input tree for patient 105
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 106, distance 0
+0 # selected input tree index for patient 106
+5 # edges in selected input tree for patient 106
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 107, distance 0
+0 # selected input tree index for patient 107
+5 # edges in selected input tree for patient 107
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 108, distance 0.2
+0 # selected input tree index for patient 108
+5 # edges in selected input tree for patient 108
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 109, distance 0
+0 # selected input tree index for patient 109
+5 # edges in selected input tree for patient 109
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 110, distance 0
+0 # selected input tree index for patient 110
+5 # edges in selected input tree for patient 110
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 111, distance 0
+0 # selected input tree index for patient 111
+5 # edges in selected input tree for patient 111
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 112, distance 0
+0 # selected input tree index for patient 112
+5 # edges in selected input tree for patient 112
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 113, distance 0
+0 # selected input tree index for patient 113
+5 # edges in selected input tree for patient 113
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 114, distance 0.2
+0 # selected input tree index for patient 114
+5 # edges in selected input tree for patient 114
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 115, distance 0
+0 # selected input tree index for patient 115
+5 # edges in selected input tree for patient 115
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 116, distance 0.4
+0 # selected input tree index for patient 116
+5 # edges in selected input tree for patient 116
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 117, distance 0.2
+0 # selected input tree index for patient 117
+5 # edges in selected input tree for patient 117
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 118, distance 0
+0 # selected input tree index for patient 118
+5 # edges in selected input tree for patient 118
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 119, distance 0.2
+0 # selected input tree index for patient 119
+5 # edges in selected input tree for patient 119
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 120, distance 0
+0 # selected input tree index for patient 120
+5 # edges in selected input tree for patient 120
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 121, distance 0
+0 # selected input tree index for patient 121
+5 # edges in selected input tree for patient 121
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 122, distance 0.2
+0 # selected input tree index for patient 122
+5 # edges in selected input tree for patient 122
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 123, distance 0
+0 # selected input tree index for patient 123
+5 # edges in selected input tree for patient 123
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 124, distance 0.4
+0 # selected input tree index for patient 124
+5 # edges in selected input tree for patient 124
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 125, distance 0.2
+0 # selected input tree index for patient 125
+5 # edges in selected input tree for patient 125
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 126, distance 0
+0 # selected input tree index for patient 126
+5 # edges in selected input tree for patient 126
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 127, distance 0
+0 # selected input tree index for patient 127
+5 # edges in selected input tree for patient 127
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 128, distance 0.2
+0 # selected input tree index for patient 128
+5 # edges in selected input tree for patient 128
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 129, distance 0.4
+0 # selected input tree index for patient 129
+5 # edges in selected input tree for patient 129
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 130, distance 0
+0 # selected input tree index for patient 130
+5 # edges in selected input tree for patient 130
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 131, distance 0
+0 # selected input tree index for patient 131
+5 # edges in selected input tree for patient 131
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 132, distance 0.2
+0 # selected input tree index for patient 132
+5 # edges in selected input tree for patient 132
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 133, distance 0.2
+0 # selected input tree index for patient 133
+5 # edges in selected input tree for patient 133
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 134, distance 0.2
+0 # selected input tree index for patient 134
+5 # edges in selected input tree for patient 134
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 135, distance 0.2
+0 # selected input tree index for patient 135
+5 # edges in selected input tree for patient 135
+TP53 GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 136, distance 0.2
+0 # selected input tree index for patient 136
+5 # edges in selected input tree for patient 136
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 137, distance 0.2
+0 # selected input tree index for patient 137
+5 # edges in selected input tree for patient 137
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 138, distance 0.2
+0 # selected input tree index for patient 138
+5 # edges in selected input tree for patient 138
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 139, distance 0.2
+0 # selected input tree index for patient 139
+5 # edges in selected input tree for patient 139
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 140, distance 0.2
+0 # selected input tree index for patient 140
+5 # edges in selected input tree for patient 140
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 141, distance 0.2
+0 # selected input tree index for patient 141
+5 # edges in selected input tree for patient 141
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 142, distance 0
+0 # selected input tree index for patient 142
+5 # edges in selected input tree for patient 142
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 143, distance 0
+0 # selected input tree index for patient 143
+5 # edges in selected input tree for patient 143
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 144, distance 0.4
+0 # selected input tree index for patient 144
+5 # edges in selected input tree for patient 144
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 145, distance 0
+0 # selected input tree index for patient 145
+5 # edges in selected input tree for patient 145
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 146, distance 0.4
+0 # selected input tree index for patient 146
+5 # edges in selected input tree for patient 146
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 147, distance 0
+0 # selected input tree index for patient 147
+5 # edges in selected input tree for patient 147
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 148, distance 0.2
+0 # selected input tree index for patient 148
+5 # edges in selected input tree for patient 148
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 149, distance 0.2
+0 # selected input tree index for patient 149
+5 # edges in selected input tree for patient 149
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 150, distance 0.2
+0 # selected input tree index for patient 150
+5 # edges in selected input tree for patient 150
+TP53 CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 151, distance 0.2
+0 # selected input tree index for patient 151
+5 # edges in selected input tree for patient 151
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 152, distance 0.2
+0 # selected input tree index for patient 152
+5 # edges in selected input tree for patient 152
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 153, distance 0.2
+0 # selected input tree index for patient 153
+5 # edges in selected input tree for patient 153
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 154, distance 0.2
+0 # selected input tree index for patient 154
+5 # edges in selected input tree for patient 154
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 155, distance 0
+0 # selected input tree index for patient 155
+5 # edges in selected input tree for patient 155
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 156, distance 0.2
+0 # selected input tree index for patient 156
+5 # edges in selected input tree for patient 156
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 157, distance 0
+0 # selected input tree index for patient 157
+5 # edges in selected input tree for patient 157
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 158, distance 0
+0 # selected input tree index for patient 158
+5 # edges in selected input tree for patient 158
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 159, distance 0.2
+0 # selected input tree index for patient 159
+5 # edges in selected input tree for patient 159
+GL GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 160, distance 0.4
+0 # selected input tree index for patient 160
+5 # edges in selected input tree for patient 160
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 161, distance 0.4
+0 # selected input tree index for patient 161
+5 # edges in selected input tree for patient 161
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 162, distance 0.6
+0 # selected input tree index for patient 162
+5 # edges in selected input tree for patient 162
+PIK3CA TP53
+TP53 GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+1 # cluster index for patient 163, distance 0.2
+0 # selected input tree index for patient 163
+5 # edges in selected input tree for patient 163
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 164, distance 0
+0 # selected input tree index for patient 164
+5 # edges in selected input tree for patient 164
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 165, distance 0.2
+0 # selected input tree index for patient 165
+5 # edges in selected input tree for patient 165
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 166, distance 0.2
+0 # selected input tree index for patient 166
+5 # edges in selected input tree for patient 166
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 167, distance 0.4
+0 # selected input tree index for patient 167
+5 # edges in selected input tree for patient 167
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 168, distance 0.2
+0 # selected input tree index for patient 168
+5 # edges in selected input tree for patient 168
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 169, distance 0
+0 # selected input tree index for patient 169
+5 # edges in selected input tree for patient 169
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 170, distance 0.2
+0 # selected input tree index for patient 170
+5 # edges in selected input tree for patient 170
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 171, distance 0
+0 # selected input tree index for patient 171
+5 # edges in selected input tree for patient 171
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 172, distance 0.4
+0 # selected input tree index for patient 172
+5 # edges in selected input tree for patient 172
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 173, distance 0.2
+0 # selected input tree index for patient 173
+5 # edges in selected input tree for patient 173
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 174, distance 0
+0 # selected input tree index for patient 174
+5 # edges in selected input tree for patient 174
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 175, distance 0.4
+0 # selected input tree index for patient 175
+5 # edges in selected input tree for patient 175
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 176, distance 0.2
+0 # selected input tree index for patient 176
+5 # edges in selected input tree for patient 176
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 177, distance 0.2
+0 # selected input tree index for patient 177
+5 # edges in selected input tree for patient 177
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 178, distance 0.2
+0 # selected input tree index for patient 178
+5 # edges in selected input tree for patient 178
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 179, distance 0
+0 # selected input tree index for patient 179
+5 # edges in selected input tree for patient 179
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 180, distance 0.2
+0 # selected input tree index for patient 180
+5 # edges in selected input tree for patient 180
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 181, distance 0
+0 # selected input tree index for patient 181
+5 # edges in selected input tree for patient 181
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 182, distance 0.2
+0 # selected input tree index for patient 182
+5 # edges in selected input tree for patient 182
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 183, distance 0.2
+0 # selected input tree index for patient 183
+5 # edges in selected input tree for patient 183
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 184, distance 0.2
+0 # selected input tree index for patient 184
+5 # edges in selected input tree for patient 184
+TP53 CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 185, distance 0
+0 # selected input tree index for patient 185
+5 # edges in selected input tree for patient 185
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 186, distance 0
+0 # selected input tree index for patient 186
+5 # edges in selected input tree for patient 186
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 187, distance 0.4
+0 # selected input tree index for patient 187
+5 # edges in selected input tree for patient 187
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 188, distance 0
+0 # selected input tree index for patient 188
+5 # edges in selected input tree for patient 188
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 189, distance 0.4
+0 # selected input tree index for patient 189
+5 # edges in selected input tree for patient 189
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 190, distance 0
+0 # selected input tree index for patient 190
+5 # edges in selected input tree for patient 190
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 191, distance 0
+0 # selected input tree index for patient 191
+5 # edges in selected input tree for patient 191
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 192, distance 0
+0 # selected input tree index for patient 192
+5 # edges in selected input tree for patient 192
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 193, distance 0
+0 # selected input tree index for patient 193
+5 # edges in selected input tree for patient 193
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 194, distance 0
+0 # selected input tree index for patient 194
+5 # edges in selected input tree for patient 194
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 195, distance 0.4
+0 # selected input tree index for patient 195
+5 # edges in selected input tree for patient 195
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 196, distance 0.2
+0 # selected input tree index for patient 196
+5 # edges in selected input tree for patient 196
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 197, distance 0.4
+0 # selected input tree index for patient 197
+5 # edges in selected input tree for patient 197
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 198, distance 0.2
+0 # selected input tree index for patient 198
+5 # edges in selected input tree for patient 198
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 199, distance 0.2
+0 # selected input tree index for patient 199
+5 # edges in selected input tree for patient 199
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 200, distance 0
+0 # selected input tree index for patient 200
+5 # edges in selected input tree for patient 200
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 201, distance 0
+0 # selected input tree index for patient 201
+5 # edges in selected input tree for patient 201
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 202, distance 0.2
+0 # selected input tree index for patient 202
+5 # edges in selected input tree for patient 202
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 203, distance 0.2
+0 # selected input tree index for patient 203
+5 # edges in selected input tree for patient 203
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 204, distance 0.4
+0 # selected input tree index for patient 204
+5 # edges in selected input tree for patient 204
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 205, distance 0
+0 # selected input tree index for patient 205
+5 # edges in selected input tree for patient 205
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 206, distance 0.2
+0 # selected input tree index for patient 206
+5 # edges in selected input tree for patient 206
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 207, distance 0
+0 # selected input tree index for patient 207
+5 # edges in selected input tree for patient 207
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 208, distance 0.2
+0 # selected input tree index for patient 208
+5 # edges in selected input tree for patient 208
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 209, distance 0
+0 # selected input tree index for patient 209
+5 # edges in selected input tree for patient 209
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 210, distance 0.2
+0 # selected input tree index for patient 210
+5 # edges in selected input tree for patient 210
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 211, distance 0.2
+0 # selected input tree index for patient 211
+5 # edges in selected input tree for patient 211
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 212, distance 0.2
+0 # selected input tree index for patient 212
+5 # edges in selected input tree for patient 212
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 213, distance 0.4
+0 # selected input tree index for patient 213
+5 # edges in selected input tree for patient 213
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 214, distance 0.2
+0 # selected input tree index for patient 214
+5 # edges in selected input tree for patient 214
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 215, distance 0.2
+0 # selected input tree index for patient 215
+5 # edges in selected input tree for patient 215
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 216, distance 0.2
+0 # selected input tree index for patient 216
+5 # edges in selected input tree for patient 216
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 217, distance 0.4
+0 # selected input tree index for patient 217
+5 # edges in selected input tree for patient 217
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 218, distance 0
+0 # selected input tree index for patient 218
+5 # edges in selected input tree for patient 218
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 219, distance 0
+0 # selected input tree index for patient 219
+5 # edges in selected input tree for patient 219
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 220, distance 0
+0 # selected input tree index for patient 220
+5 # edges in selected input tree for patient 220
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 221, distance 0
+0 # selected input tree index for patient 221
+5 # edges in selected input tree for patient 221
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 222, distance 0.2
+0 # selected input tree index for patient 222
+5 # edges in selected input tree for patient 222
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 223, distance 0.4
+0 # selected input tree index for patient 223
+5 # edges in selected input tree for patient 223
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 224, distance 0.2
+0 # selected input tree index for patient 224
+5 # edges in selected input tree for patient 224
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 225, distance 0.2
+0 # selected input tree index for patient 225
+5 # edges in selected input tree for patient 225
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 226, distance 0
+0 # selected input tree index for patient 226
+5 # edges in selected input tree for patient 226
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 227, distance 0.4
+0 # selected input tree index for patient 227
+5 # edges in selected input tree for patient 227
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 228, distance 0
+0 # selected input tree index for patient 228
+5 # edges in selected input tree for patient 228
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 229, distance 0.2
+0 # selected input tree index for patient 229
+5 # edges in selected input tree for patient 229
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 230, distance 0.2
+0 # selected input tree index for patient 230
+5 # edges in selected input tree for patient 230
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 231, distance 0
+0 # selected input tree index for patient 231
+5 # edges in selected input tree for patient 231
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 232, distance 0.2
+0 # selected input tree index for patient 232
+5 # edges in selected input tree for patient 232
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 233, distance 0.2
+0 # selected input tree index for patient 233
+5 # edges in selected input tree for patient 233
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 234, distance 0.4
+0 # selected input tree index for patient 234
+5 # edges in selected input tree for patient 234
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 235, distance 0.2
+0 # selected input tree index for patient 235
+5 # edges in selected input tree for patient 235
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 236, distance 0
+0 # selected input tree index for patient 236
+5 # edges in selected input tree for patient 236
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 237, distance 0
+0 # selected input tree index for patient 237
+5 # edges in selected input tree for patient 237
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 238, distance 0.4
+0 # selected input tree index for patient 238
+5 # edges in selected input tree for patient 238
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 239, distance 0.4
+0 # selected input tree index for patient 239
+5 # edges in selected input tree for patient 239
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 240, distance 0.4
+0 # selected input tree index for patient 240
+5 # edges in selected input tree for patient 240
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 241, distance 0.2
+0 # selected input tree index for patient 241
+5 # edges in selected input tree for patient 241
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 242, distance 0.4
+0 # selected input tree index for patient 242
+5 # edges in selected input tree for patient 242
+GL PIK3CA
+GL dummy
+PIK3CA GATA3
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 243, distance 0.2
+0 # selected input tree index for patient 243
+5 # edges in selected input tree for patient 243
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 244, distance 0.2
+0 # selected input tree index for patient 244
+5 # edges in selected input tree for patient 244
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 245, distance 0.4
+0 # selected input tree index for patient 245
+5 # edges in selected input tree for patient 245
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 246, distance 0.2
+0 # selected input tree index for patient 246
+5 # edges in selected input tree for patient 246
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 247, distance 0
+0 # selected input tree index for patient 247
+5 # edges in selected input tree for patient 247
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 248, distance 0
+0 # selected input tree index for patient 248
+5 # edges in selected input tree for patient 248
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 249, distance 0.4
+0 # selected input tree index for patient 249
+5 # edges in selected input tree for patient 249
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 250, distance 0
+0 # selected input tree index for patient 250
+5 # edges in selected input tree for patient 250
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 251, distance 0
+0 # selected input tree index for patient 251
+5 # edges in selected input tree for patient 251
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 252, distance 0
+0 # selected input tree index for patient 252
+5 # edges in selected input tree for patient 252
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 253, distance 0
+0 # selected input tree index for patient 253
+5 # edges in selected input tree for patient 253
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 254, distance 0.2
+0 # selected input tree index for patient 254
+5 # edges in selected input tree for patient 254
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 255, distance 0.2
+0 # selected input tree index for patient 255
+5 # edges in selected input tree for patient 255
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 256, distance 0
+0 # selected input tree index for patient 256
+5 # edges in selected input tree for patient 256
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 257, distance 0.2
+0 # selected input tree index for patient 257
+5 # edges in selected input tree for patient 257
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 258, distance 0.4
+0 # selected input tree index for patient 258
+5 # edges in selected input tree for patient 258
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 259, distance 0.4
+0 # selected input tree index for patient 259
+5 # edges in selected input tree for patient 259
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 260, distance 0
+0 # selected input tree index for patient 260
+5 # edges in selected input tree for patient 260
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 261, distance 0.2
+0 # selected input tree index for patient 261
+5 # edges in selected input tree for patient 261
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 262, distance 0.2
+0 # selected input tree index for patient 262
+5 # edges in selected input tree for patient 262
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 263, distance 0.2
+0 # selected input tree index for patient 263
+5 # edges in selected input tree for patient 263
+TP53 GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 264, distance 0.2
+0 # selected input tree index for patient 264
+5 # edges in selected input tree for patient 264
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 265, distance 0.2
+0 # selected input tree index for patient 265
+5 # edges in selected input tree for patient 265
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 266, distance 0
+0 # selected input tree index for patient 266
+5 # edges in selected input tree for patient 266
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 267, distance 0
+0 # selected input tree index for patient 267
+5 # edges in selected input tree for patient 267
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 268, distance 0
+0 # selected input tree index for patient 268
+5 # edges in selected input tree for patient 268
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 269, distance 0.2
+0 # selected input tree index for patient 269
+5 # edges in selected input tree for patient 269
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 270, distance 0
+0 # selected input tree index for patient 270
+5 # edges in selected input tree for patient 270
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 271, distance 0
+0 # selected input tree index for patient 271
+5 # edges in selected input tree for patient 271
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 272, distance 0
+0 # selected input tree index for patient 272
+5 # edges in selected input tree for patient 272
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 273, distance 0.2
+0 # selected input tree index for patient 273
+5 # edges in selected input tree for patient 273
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 274, distance 0.2
+0 # selected input tree index for patient 274
+5 # edges in selected input tree for patient 274
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 275, distance 0
+0 # selected input tree index for patient 275
+5 # edges in selected input tree for patient 275
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 276, distance 0
+0 # selected input tree index for patient 276
+5 # edges in selected input tree for patient 276
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 277, distance 0.2
+0 # selected input tree index for patient 277
+5 # edges in selected input tree for patient 277
+TP53 CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 278, distance 0
+0 # selected input tree index for patient 278
+5 # edges in selected input tree for patient 278
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 279, distance 0.2
+0 # selected input tree index for patient 279
+5 # edges in selected input tree for patient 279
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 280, distance 0
+0 # selected input tree index for patient 280
+5 # edges in selected input tree for patient 280
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 281, distance 0
+0 # selected input tree index for patient 281
+5 # edges in selected input tree for patient 281
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 282, distance 0.2
+0 # selected input tree index for patient 282
+5 # edges in selected input tree for patient 282
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 283, distance 0.2
+0 # selected input tree index for patient 283
+5 # edges in selected input tree for patient 283
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 284, distance 0.2
+0 # selected input tree index for patient 284
+5 # edges in selected input tree for patient 284
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 285, distance 0.4
+0 # selected input tree index for patient 285
+5 # edges in selected input tree for patient 285
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 286, distance 0.4
+0 # selected input tree index for patient 286
+5 # edges in selected input tree for patient 286
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 287, distance 0
+0 # selected input tree index for patient 287
+5 # edges in selected input tree for patient 287
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 288, distance 0.4
+0 # selected input tree index for patient 288
+5 # edges in selected input tree for patient 288
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 289, distance 0.2
+0 # selected input tree index for patient 289
+5 # edges in selected input tree for patient 289
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 290, distance 0.2
+0 # selected input tree index for patient 290
+5 # edges in selected input tree for patient 290
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 291, distance 0
+0 # selected input tree index for patient 291
+5 # edges in selected input tree for patient 291
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 292, distance 0.2
+0 # selected input tree index for patient 292
+5 # edges in selected input tree for patient 292
+TP53 GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 293, distance 0
+0 # selected input tree index for patient 293
+5 # edges in selected input tree for patient 293
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 294, distance 0.2
+0 # selected input tree index for patient 294
+5 # edges in selected input tree for patient 294
+TP53 CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 295, distance 0
+0 # selected input tree index for patient 295
+5 # edges in selected input tree for patient 295
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 296, distance 0.4
+0 # selected input tree index for patient 296
+5 # edges in selected input tree for patient 296
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 297, distance 0.2
+0 # selected input tree index for patient 297
+5 # edges in selected input tree for patient 297
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 298, distance 0.2
+0 # selected input tree index for patient 298
+5 # edges in selected input tree for patient 298
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 299, distance 0.4
+0 # selected input tree index for patient 299
+5 # edges in selected input tree for patient 299
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 300, distance 0
+0 # selected input tree index for patient 300
+5 # edges in selected input tree for patient 300
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 301, distance 0
+0 # selected input tree index for patient 301
+5 # edges in selected input tree for patient 301
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 302, distance 0
+0 # selected input tree index for patient 302
+5 # edges in selected input tree for patient 302
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 303, distance 0.2
+0 # selected input tree index for patient 303
+5 # edges in selected input tree for patient 303
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 304, distance 0.2
+0 # selected input tree index for patient 304
+5 # edges in selected input tree for patient 304
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 305, distance 0.4
+0 # selected input tree index for patient 305
+5 # edges in selected input tree for patient 305
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 306, distance 0.4
+0 # selected input tree index for patient 306
+5 # edges in selected input tree for patient 306
+GL PIK3CA
+GL dummy
+PIK3CA CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 307, distance 0.2
+0 # selected input tree index for patient 307
+5 # edges in selected input tree for patient 307
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 308, distance 0
+0 # selected input tree index for patient 308
+5 # edges in selected input tree for patient 308
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 309, distance 0
+0 # selected input tree index for patient 309
+5 # edges in selected input tree for patient 309
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 310, distance 0.2
+0 # selected input tree index for patient 310
+5 # edges in selected input tree for patient 310
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 311, distance 0
+0 # selected input tree index for patient 311
+5 # edges in selected input tree for patient 311
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 312, distance 0.2
+0 # selected input tree index for patient 312
+5 # edges in selected input tree for patient 312
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 313, distance 0.2
+0 # selected input tree index for patient 313
+5 # edges in selected input tree for patient 313
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 314, distance 0
+0 # selected input tree index for patient 314
+5 # edges in selected input tree for patient 314
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 315, distance 0.2
+0 # selected input tree index for patient 315
+5 # edges in selected input tree for patient 315
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 316, distance 0.6
+0 # selected input tree index for patient 316
+5 # edges in selected input tree for patient 316
+PIK3CA CDH1
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy TP53
+0 # cluster index for patient 317, distance 0
+0 # selected input tree index for patient 317
+5 # edges in selected input tree for patient 317
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 318, distance 0
+0 # selected input tree index for patient 318
+5 # edges in selected input tree for patient 318
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 319, distance 0
+0 # selected input tree index for patient 319
+5 # edges in selected input tree for patient 319
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 320, distance 0.2
+0 # selected input tree index for patient 320
+5 # edges in selected input tree for patient 320
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 321, distance 0.4
+0 # selected input tree index for patient 321
+5 # edges in selected input tree for patient 321
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 322, distance 0.2
+0 # selected input tree index for patient 322
+5 # edges in selected input tree for patient 322
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 323, distance 0.2
+0 # selected input tree index for patient 323
+5 # edges in selected input tree for patient 323
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 324, distance 0.2
+0 # selected input tree index for patient 324
+5 # edges in selected input tree for patient 324
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 325, distance 0.4
+0 # selected input tree index for patient 325
+5 # edges in selected input tree for patient 325
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 326, distance 0.4
+0 # selected input tree index for patient 326
+5 # edges in selected input tree for patient 326
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 327, distance 0.4
+0 # selected input tree index for patient 327
+5 # edges in selected input tree for patient 327
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 328, distance 0.2
+0 # selected input tree index for patient 328
+5 # edges in selected input tree for patient 328
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 329, distance 0.2
+0 # selected input tree index for patient 329
+5 # edges in selected input tree for patient 329
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 330, distance 0.2
+0 # selected input tree index for patient 330
+5 # edges in selected input tree for patient 330
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 331, distance 0
+0 # selected input tree index for patient 331
+5 # edges in selected input tree for patient 331
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 332, distance 0
+0 # selected input tree index for patient 332
+5 # edges in selected input tree for patient 332
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 333, distance 0.4
+0 # selected input tree index for patient 333
+5 # edges in selected input tree for patient 333
+GL PIK3CA
+GL dummy
+PIK3CA TP53
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 334, distance 0.2
+0 # selected input tree index for patient 334
+5 # edges in selected input tree for patient 334
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 335, distance 0.4
+0 # selected input tree index for patient 335
+5 # edges in selected input tree for patient 335
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 336, distance 0.4
+0 # selected input tree index for patient 336
+5 # edges in selected input tree for patient 336
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 337, distance 0.2
+0 # selected input tree index for patient 337
+5 # edges in selected input tree for patient 337
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 338, distance 0
+0 # selected input tree index for patient 338
+5 # edges in selected input tree for patient 338
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 339, distance 0.2
+0 # selected input tree index for patient 339
+5 # edges in selected input tree for patient 339
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 340, distance 0
+0 # selected input tree index for patient 340
+5 # edges in selected input tree for patient 340
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 341, distance 0.2
+0 # selected input tree index for patient 341
+5 # edges in selected input tree for patient 341
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 342, distance 0.2
+0 # selected input tree index for patient 342
+5 # edges in selected input tree for patient 342
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 343, distance 0.4
+0 # selected input tree index for patient 343
+5 # edges in selected input tree for patient 343
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 344, distance 0
+0 # selected input tree index for patient 344
+5 # edges in selected input tree for patient 344
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 345, distance 0
+0 # selected input tree index for patient 345
+5 # edges in selected input tree for patient 345
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 346, distance 0
+0 # selected input tree index for patient 346
+5 # edges in selected input tree for patient 346
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 347, distance 0
+0 # selected input tree index for patient 347
+5 # edges in selected input tree for patient 347
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 348, distance 0.2
+0 # selected input tree index for patient 348
+5 # edges in selected input tree for patient 348
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 349, distance 0.4
+0 # selected input tree index for patient 349
+5 # edges in selected input tree for patient 349
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 350, distance 0.2
+0 # selected input tree index for patient 350
+5 # edges in selected input tree for patient 350
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 351, distance 0.2
+0 # selected input tree index for patient 351
+5 # edges in selected input tree for patient 351
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 352, distance 0.4
+0 # selected input tree index for patient 352
+5 # edges in selected input tree for patient 352
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 353, distance 0
+0 # selected input tree index for patient 353
+5 # edges in selected input tree for patient 353
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 354, distance 0.2
+0 # selected input tree index for patient 354
+5 # edges in selected input tree for patient 354
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 355, distance 0
+0 # selected input tree index for patient 355
+5 # edges in selected input tree for patient 355
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 356, distance 0.2
+0 # selected input tree index for patient 356
+5 # edges in selected input tree for patient 356
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 357, distance 0.4
+0 # selected input tree index for patient 357
+5 # edges in selected input tree for patient 357
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 358, distance 0.2
+0 # selected input tree index for patient 358
+5 # edges in selected input tree for patient 358
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 359, distance 0
+0 # selected input tree index for patient 359
+5 # edges in selected input tree for patient 359
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 360, distance 0.2
+0 # selected input tree index for patient 360
+5 # edges in selected input tree for patient 360
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 361, distance 0.2
+0 # selected input tree index for patient 361
+5 # edges in selected input tree for patient 361
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 362, distance 0.4
+0 # selected input tree index for patient 362
+5 # edges in selected input tree for patient 362
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 363, distance 0
+0 # selected input tree index for patient 363
+5 # edges in selected input tree for patient 363
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 364, distance 0
+0 # selected input tree index for patient 364
+5 # edges in selected input tree for patient 364
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 365, distance 0.4
+0 # selected input tree index for patient 365
+5 # edges in selected input tree for patient 365
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 366, distance 0.4
+0 # selected input tree index for patient 366
+5 # edges in selected input tree for patient 366
+GL GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 367, distance 0.2
+0 # selected input tree index for patient 367
+5 # edges in selected input tree for patient 367
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 368, distance 0
+0 # selected input tree index for patient 368
+5 # edges in selected input tree for patient 368
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 369, distance 0.4
+0 # selected input tree index for patient 369
+5 # edges in selected input tree for patient 369
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 370, distance 0
+0 # selected input tree index for patient 370
+5 # edges in selected input tree for patient 370
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 371, distance 0.2
+0 # selected input tree index for patient 371
+5 # edges in selected input tree for patient 371
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 372, distance 0
+0 # selected input tree index for patient 372
+5 # edges in selected input tree for patient 372
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 373, distance 0
+0 # selected input tree index for patient 373
+5 # edges in selected input tree for patient 373
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 374, distance 0
+0 # selected input tree index for patient 374
+5 # edges in selected input tree for patient 374
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 375, distance 0
+0 # selected input tree index for patient 375
+5 # edges in selected input tree for patient 375
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 376, distance 0.2
+0 # selected input tree index for patient 376
+5 # edges in selected input tree for patient 376
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 377, distance 0
+0 # selected input tree index for patient 377
+5 # edges in selected input tree for patient 377
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 378, distance 0
+0 # selected input tree index for patient 378
+5 # edges in selected input tree for patient 378
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 379, distance 0
+0 # selected input tree index for patient 379
+5 # edges in selected input tree for patient 379
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 380, distance 0.2
+0 # selected input tree index for patient 380
+5 # edges in selected input tree for patient 380
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 381, distance 0
+0 # selected input tree index for patient 381
+5 # edges in selected input tree for patient 381
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 382, distance 0
+0 # selected input tree index for patient 382
+5 # edges in selected input tree for patient 382
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 383, distance 0.4
+0 # selected input tree index for patient 383
+5 # edges in selected input tree for patient 383
+TP53 PIK3CA
+PIK3CA GATA3
+GL TP53
+GL dummy
+dummy CDH1
+0 # cluster index for patient 384, distance 0
+0 # selected input tree index for patient 384
+5 # edges in selected input tree for patient 384
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 385, distance 0.2
+0 # selected input tree index for patient 385
+5 # edges in selected input tree for patient 385
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 386, distance 0.2
+0 # selected input tree index for patient 386
+5 # edges in selected input tree for patient 386
+TP53 GATA3
+GL TP53
+GL dummy
+dummy CDH1
+dummy PIK3CA
+0 # cluster index for patient 387, distance 0.4
+0 # selected input tree index for patient 387
+5 # edges in selected input tree for patient 387
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 388, distance 0.4
+0 # selected input tree index for patient 388
+5 # edges in selected input tree for patient 388
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 389, distance 0.2
+0 # selected input tree index for patient 389
+5 # edges in selected input tree for patient 389
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 390, distance 0.2
+0 # selected input tree index for patient 390
+5 # edges in selected input tree for patient 390
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 391, distance 0.4
+0 # selected input tree index for patient 391
+5 # edges in selected input tree for patient 391
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 392, distance 0.2
+0 # selected input tree index for patient 392
+5 # edges in selected input tree for patient 392
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 393, distance 0
+0 # selected input tree index for patient 393
+5 # edges in selected input tree for patient 393
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 394, distance 0.2
+0 # selected input tree index for patient 394
+5 # edges in selected input tree for patient 394
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 395, distance 0.2
+0 # selected input tree index for patient 395
+5 # edges in selected input tree for patient 395
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 396, distance 0.4
+0 # selected input tree index for patient 396
+5 # edges in selected input tree for patient 396
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 397, distance 0
+0 # selected input tree index for patient 397
+5 # edges in selected input tree for patient 397
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 398, distance 0.2
+0 # selected input tree index for patient 398
+5 # edges in selected input tree for patient 398
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 399, distance 0.2
+0 # selected input tree index for patient 399
+5 # edges in selected input tree for patient 399
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 400, distance 0
+0 # selected input tree index for patient 400
+5 # edges in selected input tree for patient 400
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 401, distance 0.4
+0 # selected input tree index for patient 401
+5 # edges in selected input tree for patient 401
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 402, distance 0.2
+0 # selected input tree index for patient 402
+5 # edges in selected input tree for patient 402
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 403, distance 0.4
+0 # selected input tree index for patient 403
+5 # edges in selected input tree for patient 403
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 404, distance 0.2
+0 # selected input tree index for patient 404
+5 # edges in selected input tree for patient 404
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 405, distance 0.4
+0 # selected input tree index for patient 405
+5 # edges in selected input tree for patient 405
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 406, distance 0
+0 # selected input tree index for patient 406
+5 # edges in selected input tree for patient 406
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 407, distance 0
+0 # selected input tree index for patient 407
+5 # edges in selected input tree for patient 407
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 408, distance 0.6
+0 # selected input tree index for patient 408
+5 # edges in selected input tree for patient 408
+CDH1 PIK3CA
+PIK3CA GATA3
+GL CDH1
+GL dummy
+dummy TP53
+1 # cluster index for patient 409, distance 0.4
+0 # selected input tree index for patient 409
+5 # edges in selected input tree for patient 409
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 410, distance 0.2
+0 # selected input tree index for patient 410
+5 # edges in selected input tree for patient 410
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 411, distance 0.2
+0 # selected input tree index for patient 411
+5 # edges in selected input tree for patient 411
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 412, distance 0
+0 # selected input tree index for patient 412
+5 # edges in selected input tree for patient 412
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 413, distance 0
+0 # selected input tree index for patient 413
+5 # edges in selected input tree for patient 413
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 414, distance 0.2
+0 # selected input tree index for patient 414
+5 # edges in selected input tree for patient 414
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 415, distance 0
+0 # selected input tree index for patient 415
+5 # edges in selected input tree for patient 415
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 416, distance 0.2
+0 # selected input tree index for patient 416
+5 # edges in selected input tree for patient 416
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 417, distance 0.4
+0 # selected input tree index for patient 417
+5 # edges in selected input tree for patient 417
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 418, distance 0.2
+0 # selected input tree index for patient 418
+5 # edges in selected input tree for patient 418
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 419, distance 0.2
+0 # selected input tree index for patient 419
+5 # edges in selected input tree for patient 419
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 420, distance 0.2
+0 # selected input tree index for patient 420
+5 # edges in selected input tree for patient 420
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 421, distance 0.2
+0 # selected input tree index for patient 421
+5 # edges in selected input tree for patient 421
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 422, distance 0
+0 # selected input tree index for patient 422
+5 # edges in selected input tree for patient 422
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 423, distance 0.2
+0 # selected input tree index for patient 423
+5 # edges in selected input tree for patient 423
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 424, distance 0.2
+0 # selected input tree index for patient 424
+5 # edges in selected input tree for patient 424
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 425, distance 0
+0 # selected input tree index for patient 425
+5 # edges in selected input tree for patient 425
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 426, distance 0.4
+0 # selected input tree index for patient 426
+5 # edges in selected input tree for patient 426
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 427, distance 0.4
+0 # selected input tree index for patient 427
+5 # edges in selected input tree for patient 427
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 428, distance 0.2
+0 # selected input tree index for patient 428
+5 # edges in selected input tree for patient 428
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 429, distance 0.2
+0 # selected input tree index for patient 429
+5 # edges in selected input tree for patient 429
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 430, distance 0.2
+0 # selected input tree index for patient 430
+5 # edges in selected input tree for patient 430
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 431, distance 0.4
+0 # selected input tree index for patient 431
+5 # edges in selected input tree for patient 431
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 432, distance 0
+0 # selected input tree index for patient 432
+5 # edges in selected input tree for patient 432
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 433, distance 0
+0 # selected input tree index for patient 433
+5 # edges in selected input tree for patient 433
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 434, distance 0.4
+0 # selected input tree index for patient 434
+5 # edges in selected input tree for patient 434
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 435, distance 0
+0 # selected input tree index for patient 435
+5 # edges in selected input tree for patient 435
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 436, distance 0.4
+0 # selected input tree index for patient 436
+5 # edges in selected input tree for patient 436
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 437, distance 0
+0 # selected input tree index for patient 437
+5 # edges in selected input tree for patient 437
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 438, distance 0
+0 # selected input tree index for patient 438
+5 # edges in selected input tree for patient 438
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 439, distance 0.4
+0 # selected input tree index for patient 439
+5 # edges in selected input tree for patient 439
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 440, distance 0.2
+0 # selected input tree index for patient 440
+5 # edges in selected input tree for patient 440
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 441, distance 0
+0 # selected input tree index for patient 441
+5 # edges in selected input tree for patient 441
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 442, distance 0.2
+0 # selected input tree index for patient 442
+5 # edges in selected input tree for patient 442
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 443, distance 0
+0 # selected input tree index for patient 443
+5 # edges in selected input tree for patient 443
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 444, distance 0
+0 # selected input tree index for patient 444
+5 # edges in selected input tree for patient 444
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 445, distance 0
+0 # selected input tree index for patient 445
+5 # edges in selected input tree for patient 445
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 446, distance 0
+0 # selected input tree index for patient 446
+5 # edges in selected input tree for patient 446
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 447, distance 0.2
+0 # selected input tree index for patient 447
+5 # edges in selected input tree for patient 447
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 448, distance 0.2
+0 # selected input tree index for patient 448
+5 # edges in selected input tree for patient 448
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 449, distance 0.2
+0 # selected input tree index for patient 449
+5 # edges in selected input tree for patient 449
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 450, distance 0.2
+0 # selected input tree index for patient 450
+5 # edges in selected input tree for patient 450
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 451, distance 0
+0 # selected input tree index for patient 451
+5 # edges in selected input tree for patient 451
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 452, distance 0.2
+0 # selected input tree index for patient 452
+5 # edges in selected input tree for patient 452
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 453, distance 0.2
+0 # selected input tree index for patient 453
+5 # edges in selected input tree for patient 453
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 454, distance 0.2
+0 # selected input tree index for patient 454
+5 # edges in selected input tree for patient 454
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 455, distance 0.2
+0 # selected input tree index for patient 455
+5 # edges in selected input tree for patient 455
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 456, distance 0.2
+0 # selected input tree index for patient 456
+5 # edges in selected input tree for patient 456
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 457, distance 0.2
+0 # selected input tree index for patient 457
+5 # edges in selected input tree for patient 457
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 458, distance 0
+0 # selected input tree index for patient 458
+5 # edges in selected input tree for patient 458
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 459, distance 0
+0 # selected input tree index for patient 459
+5 # edges in selected input tree for patient 459
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 460, distance 0.4
+0 # selected input tree index for patient 460
+5 # edges in selected input tree for patient 460
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 461, distance 0.2
+0 # selected input tree index for patient 461
+5 # edges in selected input tree for patient 461
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 462, distance 0.2
+0 # selected input tree index for patient 462
+5 # edges in selected input tree for patient 462
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 463, distance 0.4
+0 # selected input tree index for patient 463
+5 # edges in selected input tree for patient 463
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 464, distance 0.4
+0 # selected input tree index for patient 464
+5 # edges in selected input tree for patient 464
+GL PIK3CA
+GL dummy
+PIK3CA TP53
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 465, distance 0
+0 # selected input tree index for patient 465
+5 # edges in selected input tree for patient 465
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 466, distance 0.2
+0 # selected input tree index for patient 466
+5 # edges in selected input tree for patient 466
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 467, distance 0
+0 # selected input tree index for patient 467
+5 # edges in selected input tree for patient 467
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 468, distance 0
+0 # selected input tree index for patient 468
+5 # edges in selected input tree for patient 468
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 469, distance 0
+0 # selected input tree index for patient 469
+5 # edges in selected input tree for patient 469
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 470, distance 0
+0 # selected input tree index for patient 470
+5 # edges in selected input tree for patient 470
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 471, distance 0
+0 # selected input tree index for patient 471
+5 # edges in selected input tree for patient 471
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 472, distance 0
+0 # selected input tree index for patient 472
+5 # edges in selected input tree for patient 472
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 473, distance 0.2
+0 # selected input tree index for patient 473
+5 # edges in selected input tree for patient 473
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 474, distance 0
+0 # selected input tree index for patient 474
+5 # edges in selected input tree for patient 474
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 475, distance 0
+0 # selected input tree index for patient 475
+5 # edges in selected input tree for patient 475
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 476, distance 0.2
+0 # selected input tree index for patient 476
+5 # edges in selected input tree for patient 476
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 477, distance 0.2
+0 # selected input tree index for patient 477
+5 # edges in selected input tree for patient 477
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 478, distance 0
+0 # selected input tree index for patient 478
+5 # edges in selected input tree for patient 478
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 479, distance 0.2
+0 # selected input tree index for patient 479
+5 # edges in selected input tree for patient 479
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 480, distance 0.2
+0 # selected input tree index for patient 480
+5 # edges in selected input tree for patient 480
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 481, distance 0.2
+0 # selected input tree index for patient 481
+5 # edges in selected input tree for patient 481
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 482, distance 0.4
+0 # selected input tree index for patient 482
+5 # edges in selected input tree for patient 482
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 483, distance 0.4
+0 # selected input tree index for patient 483
+5 # edges in selected input tree for patient 483
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 484, distance 0.2
+0 # selected input tree index for patient 484
+5 # edges in selected input tree for patient 484
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 485, distance 0
+0 # selected input tree index for patient 485
+5 # edges in selected input tree for patient 485
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 486, distance 0.4
+0 # selected input tree index for patient 486
+5 # edges in selected input tree for patient 486
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 487, distance 0.4
+0 # selected input tree index for patient 487
+5 # edges in selected input tree for patient 487
+GL GATA3
+GL dummy
+GATA3 TP53
+dummy CDH1
+dummy PIK3CA
+0 # cluster index for patient 488, distance 0
+0 # selected input tree index for patient 488
+5 # edges in selected input tree for patient 488
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 489, distance 0
+0 # selected input tree index for patient 489
+5 # edges in selected input tree for patient 489
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 490, distance 0.2
+0 # selected input tree index for patient 490
+5 # edges in selected input tree for patient 490
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 491, distance 0
+0 # selected input tree index for patient 491
+5 # edges in selected input tree for patient 491
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 492, distance 0
+0 # selected input tree index for patient 492
+5 # edges in selected input tree for patient 492
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 493, distance 0.2
+0 # selected input tree index for patient 493
+5 # edges in selected input tree for patient 493
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 494, distance 0
+0 # selected input tree index for patient 494
+5 # edges in selected input tree for patient 494
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 495, distance 0
+0 # selected input tree index for patient 495
+5 # edges in selected input tree for patient 495
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 496, distance 0
+0 # selected input tree index for patient 496
+5 # edges in selected input tree for patient 496
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 497, distance 0
+0 # selected input tree index for patient 497
+5 # edges in selected input tree for patient 497
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 498, distance 0.2
+0 # selected input tree index for patient 498
+5 # edges in selected input tree for patient 498
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 499, distance 0.2
+0 # selected input tree index for patient 499
+5 # edges in selected input tree for patient 499
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 500, distance 0.6
+0 # selected input tree index for patient 500
+5 # edges in selected input tree for patient 500
+GATA3 TP53
+TP53 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+1 # cluster index for patient 501, distance 0.2
+0 # selected input tree index for patient 501
+5 # edges in selected input tree for patient 501
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 502, distance 0.2
+0 # selected input tree index for patient 502
+5 # edges in selected input tree for patient 502
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 503, distance 0.2
+0 # selected input tree index for patient 503
+5 # edges in selected input tree for patient 503
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 504, distance 0.2
+0 # selected input tree index for patient 504
+5 # edges in selected input tree for patient 504
+TP53 CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 505, distance 0
+0 # selected input tree index for patient 505
+5 # edges in selected input tree for patient 505
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 506, distance 0
+0 # selected input tree index for patient 506
+5 # edges in selected input tree for patient 506
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 507, distance 0.2
+0 # selected input tree index for patient 507
+5 # edges in selected input tree for patient 507
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 508, distance 0
+0 # selected input tree index for patient 508
+5 # edges in selected input tree for patient 508
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 509, distance 0.2
+0 # selected input tree index for patient 509
+5 # edges in selected input tree for patient 509
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 510, distance 0.4
+0 # selected input tree index for patient 510
+5 # edges in selected input tree for patient 510
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 511, distance 0.4
+0 # selected input tree index for patient 511
+5 # edges in selected input tree for patient 511
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 512, distance 0
+0 # selected input tree index for patient 512
+5 # edges in selected input tree for patient 512
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 513, distance 0.4
+0 # selected input tree index for patient 513
+5 # edges in selected input tree for patient 513
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 514, distance 0.4
+0 # selected input tree index for patient 514
+5 # edges in selected input tree for patient 514
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 515, distance 0.2
+0 # selected input tree index for patient 515
+5 # edges in selected input tree for patient 515
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 516, distance 0.2
+0 # selected input tree index for patient 516
+5 # edges in selected input tree for patient 516
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 517, distance 0
+0 # selected input tree index for patient 517
+5 # edges in selected input tree for patient 517
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 518, distance 0
+0 # selected input tree index for patient 518
+5 # edges in selected input tree for patient 518
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 519, distance 0.2
+0 # selected input tree index for patient 519
+5 # edges in selected input tree for patient 519
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 520, distance 0.2
+0 # selected input tree index for patient 520
+5 # edges in selected input tree for patient 520
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 521, distance 0.4
+0 # selected input tree index for patient 521
+5 # edges in selected input tree for patient 521
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 522, distance 0
+0 # selected input tree index for patient 522
+5 # edges in selected input tree for patient 522
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 523, distance 0.2
+0 # selected input tree index for patient 523
+5 # edges in selected input tree for patient 523
+GL PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 524, distance 0
+0 # selected input tree index for patient 524
+5 # edges in selected input tree for patient 524
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 525, distance 0
+0 # selected input tree index for patient 525
+5 # edges in selected input tree for patient 525
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 526, distance 0.2
+0 # selected input tree index for patient 526
+5 # edges in selected input tree for patient 526
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 527, distance 0
+0 # selected input tree index for patient 527
+5 # edges in selected input tree for patient 527
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 528, distance 0
+0 # selected input tree index for patient 528
+5 # edges in selected input tree for patient 528
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 529, distance 0.4
+0 # selected input tree index for patient 529
+5 # edges in selected input tree for patient 529
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 530, distance 0
+0 # selected input tree index for patient 530
+5 # edges in selected input tree for patient 530
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 531, distance 0.2
+0 # selected input tree index for patient 531
+5 # edges in selected input tree for patient 531
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 532, distance 0.4
+0 # selected input tree index for patient 532
+5 # edges in selected input tree for patient 532
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 533, distance 0
+0 # selected input tree index for patient 533
+5 # edges in selected input tree for patient 533
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 534, distance 0
+0 # selected input tree index for patient 534
+5 # edges in selected input tree for patient 534
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 535, distance 0.4
+0 # selected input tree index for patient 535
+5 # edges in selected input tree for patient 535
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 536, distance 0.2
+0 # selected input tree index for patient 536
+5 # edges in selected input tree for patient 536
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 537, distance 0.4
+0 # selected input tree index for patient 537
+5 # edges in selected input tree for patient 537
+CDH1 GATA3
+GL CDH1
+GL dummy
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 538, distance 0
+0 # selected input tree index for patient 538
+5 # edges in selected input tree for patient 538
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 539, distance 0
+0 # selected input tree index for patient 539
+5 # edges in selected input tree for patient 539
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 540, distance 0.2
+0 # selected input tree index for patient 540
+5 # edges in selected input tree for patient 540
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 541, distance 0.6
+0 # selected input tree index for patient 541
+5 # edges in selected input tree for patient 541
+TP53 GATA3
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+1 # cluster index for patient 542, distance 0.2
+0 # selected input tree index for patient 542
+5 # edges in selected input tree for patient 542
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 543, distance 0.2
+0 # selected input tree index for patient 543
+5 # edges in selected input tree for patient 543
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 544, distance 0.2
+0 # selected input tree index for patient 544
+5 # edges in selected input tree for patient 544
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 545, distance 0
+0 # selected input tree index for patient 545
+5 # edges in selected input tree for patient 545
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 546, distance 0
+0 # selected input tree index for patient 546
+5 # edges in selected input tree for patient 546
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 547, distance 0.4
+0 # selected input tree index for patient 547
+5 # edges in selected input tree for patient 547
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 548, distance 0.4
+0 # selected input tree index for patient 548
+5 # edges in selected input tree for patient 548
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 549, distance 0
+0 # selected input tree index for patient 549
+5 # edges in selected input tree for patient 549
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 550, distance 0
+0 # selected input tree index for patient 550
+5 # edges in selected input tree for patient 550
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 551, distance 0.2
+0 # selected input tree index for patient 551
+5 # edges in selected input tree for patient 551
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 552, distance 0
+0 # selected input tree index for patient 552
+5 # edges in selected input tree for patient 552
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 553, distance 0
+0 # selected input tree index for patient 553
+5 # edges in selected input tree for patient 553
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 554, distance 0.2
+0 # selected input tree index for patient 554
+5 # edges in selected input tree for patient 554
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 555, distance 0.2
+0 # selected input tree index for patient 555
+5 # edges in selected input tree for patient 555
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 556, distance 0
+0 # selected input tree index for patient 556
+5 # edges in selected input tree for patient 556
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 557, distance 0.4
+0 # selected input tree index for patient 557
+5 # edges in selected input tree for patient 557
+GL PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 558, distance 0
+0 # selected input tree index for patient 558
+5 # edges in selected input tree for patient 558
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 559, distance 0
+0 # selected input tree index for patient 559
+5 # edges in selected input tree for patient 559
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 560, distance 0.2
+0 # selected input tree index for patient 560
+5 # edges in selected input tree for patient 560
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 561, distance 0.2
+0 # selected input tree index for patient 561
+5 # edges in selected input tree for patient 561
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 562, distance 0.2
+0 # selected input tree index for patient 562
+5 # edges in selected input tree for patient 562
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 563, distance 0.2
+0 # selected input tree index for patient 563
+5 # edges in selected input tree for patient 563
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 564, distance 0.2
+0 # selected input tree index for patient 564
+5 # edges in selected input tree for patient 564
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 565, distance 0
+0 # selected input tree index for patient 565
+5 # edges in selected input tree for patient 565
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 566, distance 0.2
+0 # selected input tree index for patient 566
+5 # edges in selected input tree for patient 566
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 567, distance 0
+0 # selected input tree index for patient 567
+5 # edges in selected input tree for patient 567
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 568, distance 0.4
+0 # selected input tree index for patient 568
+5 # edges in selected input tree for patient 568
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 569, distance 0.2
+0 # selected input tree index for patient 569
+5 # edges in selected input tree for patient 569
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 570, distance 0.2
+0 # selected input tree index for patient 570
+5 # edges in selected input tree for patient 570
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 571, distance 0
+0 # selected input tree index for patient 571
+5 # edges in selected input tree for patient 571
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 572, distance 0
+0 # selected input tree index for patient 572
+5 # edges in selected input tree for patient 572
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 573, distance 0
+0 # selected input tree index for patient 573
+5 # edges in selected input tree for patient 573
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 574, distance 0
+0 # selected input tree index for patient 574
+5 # edges in selected input tree for patient 574
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 575, distance 0.4
+0 # selected input tree index for patient 575
+5 # edges in selected input tree for patient 575
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 576, distance 0.2
+0 # selected input tree index for patient 576
+5 # edges in selected input tree for patient 576
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 577, distance 0
+0 # selected input tree index for patient 577
+5 # edges in selected input tree for patient 577
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 578, distance 0
+0 # selected input tree index for patient 578
+5 # edges in selected input tree for patient 578
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 579, distance 0
+0 # selected input tree index for patient 579
+5 # edges in selected input tree for patient 579
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 580, distance 0
+0 # selected input tree index for patient 580
+5 # edges in selected input tree for patient 580
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 581, distance 0
+0 # selected input tree index for patient 581
+5 # edges in selected input tree for patient 581
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 582, distance 0
+0 # selected input tree index for patient 582
+5 # edges in selected input tree for patient 582
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 583, distance 0.4
+0 # selected input tree index for patient 583
+5 # edges in selected input tree for patient 583
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 584, distance 0
+0 # selected input tree index for patient 584
+5 # edges in selected input tree for patient 584
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 585, distance 0.4
+0 # selected input tree index for patient 585
+5 # edges in selected input tree for patient 585
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 586, distance 0
+0 # selected input tree index for patient 586
+5 # edges in selected input tree for patient 586
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 587, distance 0.6
+0 # selected input tree index for patient 587
+5 # edges in selected input tree for patient 587
+GATA3 TP53
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+1 # cluster index for patient 588, distance 0.2
+0 # selected input tree index for patient 588
+5 # edges in selected input tree for patient 588
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 589, distance 0.2
+0 # selected input tree index for patient 589
+5 # edges in selected input tree for patient 589
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 590, distance 0
+0 # selected input tree index for patient 590
+5 # edges in selected input tree for patient 590
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 591, distance 0.2
+0 # selected input tree index for patient 591
+5 # edges in selected input tree for patient 591
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 592, distance 0
+0 # selected input tree index for patient 592
+5 # edges in selected input tree for patient 592
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 593, distance 0.2
+0 # selected input tree index for patient 593
+5 # edges in selected input tree for patient 593
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 594, distance 0
+0 # selected input tree index for patient 594
+5 # edges in selected input tree for patient 594
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 595, distance 0.4
+0 # selected input tree index for patient 595
+5 # edges in selected input tree for patient 595
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 596, distance 0.2
+0 # selected input tree index for patient 596
+5 # edges in selected input tree for patient 596
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 597, distance 0.2
+0 # selected input tree index for patient 597
+5 # edges in selected input tree for patient 597
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 598, distance 0
+0 # selected input tree index for patient 598
+5 # edges in selected input tree for patient 598
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 599, distance 0
+0 # selected input tree index for patient 599
+5 # edges in selected input tree for patient 599
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 600, distance 0
+0 # selected input tree index for patient 600
+5 # edges in selected input tree for patient 600
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 601, distance 0
+0 # selected input tree index for patient 601
+5 # edges in selected input tree for patient 601
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 602, distance 0.2
+0 # selected input tree index for patient 602
+5 # edges in selected input tree for patient 602
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 603, distance 0
+0 # selected input tree index for patient 603
+5 # edges in selected input tree for patient 603
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 604, distance 0
+0 # selected input tree index for patient 604
+5 # edges in selected input tree for patient 604
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 605, distance 0.2
+0 # selected input tree index for patient 605
+5 # edges in selected input tree for patient 605
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 606, distance 0.2
+0 # selected input tree index for patient 606
+5 # edges in selected input tree for patient 606
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 607, distance 0.2
+0 # selected input tree index for patient 607
+5 # edges in selected input tree for patient 607
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 608, distance 0
+0 # selected input tree index for patient 608
+5 # edges in selected input tree for patient 608
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 609, distance 0.4
+0 # selected input tree index for patient 609
+5 # edges in selected input tree for patient 609
+GL GATA3
+GL dummy
+GATA3 PIK3CA
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 610, distance 0
+0 # selected input tree index for patient 610
+5 # edges in selected input tree for patient 610
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 611, distance 0
+0 # selected input tree index for patient 611
+5 # edges in selected input tree for patient 611
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 612, distance 0
+0 # selected input tree index for patient 612
+5 # edges in selected input tree for patient 612
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 613, distance 0.4
+0 # selected input tree index for patient 613
+5 # edges in selected input tree for patient 613
+GL PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 614, distance 0.4
+0 # selected input tree index for patient 614
+5 # edges in selected input tree for patient 614
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 615, distance 0
+0 # selected input tree index for patient 615
+5 # edges in selected input tree for patient 615
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 616, distance 0.2
+0 # selected input tree index for patient 616
+5 # edges in selected input tree for patient 616
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 617, distance 0.2
+0 # selected input tree index for patient 617
+5 # edges in selected input tree for patient 617
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 618, distance 0.4
+0 # selected input tree index for patient 618
+5 # edges in selected input tree for patient 618
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 619, distance 0.4
+0 # selected input tree index for patient 619
+5 # edges in selected input tree for patient 619
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 620, distance 0.2
+0 # selected input tree index for patient 620
+5 # edges in selected input tree for patient 620
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 621, distance 0
+0 # selected input tree index for patient 621
+5 # edges in selected input tree for patient 621
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 622, distance 0
+0 # selected input tree index for patient 622
+5 # edges in selected input tree for patient 622
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 623, distance 0
+0 # selected input tree index for patient 623
+5 # edges in selected input tree for patient 623
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 624, distance 0.2
+0 # selected input tree index for patient 624
+5 # edges in selected input tree for patient 624
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 625, distance 0.2
+0 # selected input tree index for patient 625
+5 # edges in selected input tree for patient 625
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 626, distance 0
+0 # selected input tree index for patient 626
+5 # edges in selected input tree for patient 626
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 627, distance 0
+0 # selected input tree index for patient 627
+5 # edges in selected input tree for patient 627
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 628, distance 0.2
+0 # selected input tree index for patient 628
+5 # edges in selected input tree for patient 628
+TP53 CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 629, distance 0
+0 # selected input tree index for patient 629
+5 # edges in selected input tree for patient 629
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 630, distance 0.2
+0 # selected input tree index for patient 630
+5 # edges in selected input tree for patient 630
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 631, distance 0.2
+0 # selected input tree index for patient 631
+5 # edges in selected input tree for patient 631
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 632, distance 0.2
+0 # selected input tree index for patient 632
+5 # edges in selected input tree for patient 632
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 633, distance 0.4
+0 # selected input tree index for patient 633
+5 # edges in selected input tree for patient 633
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 634, distance 0.2
+0 # selected input tree index for patient 634
+5 # edges in selected input tree for patient 634
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 635, distance 0.2
+0 # selected input tree index for patient 635
+5 # edges in selected input tree for patient 635
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 636, distance 0.2
+0 # selected input tree index for patient 636
+5 # edges in selected input tree for patient 636
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 637, distance 0
+0 # selected input tree index for patient 637
+5 # edges in selected input tree for patient 637
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 638, distance 0
+0 # selected input tree index for patient 638
+5 # edges in selected input tree for patient 638
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 639, distance 0
+0 # selected input tree index for patient 639
+5 # edges in selected input tree for patient 639
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 640, distance 0
+0 # selected input tree index for patient 640
+5 # edges in selected input tree for patient 640
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 641, distance 0.4
+0 # selected input tree index for patient 641
+5 # edges in selected input tree for patient 641
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 642, distance 0.4
+0 # selected input tree index for patient 642
+5 # edges in selected input tree for patient 642
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 643, distance 0
+0 # selected input tree index for patient 643
+5 # edges in selected input tree for patient 643
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 644, distance 0.2
+0 # selected input tree index for patient 644
+5 # edges in selected input tree for patient 644
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 645, distance 0.2
+0 # selected input tree index for patient 645
+5 # edges in selected input tree for patient 645
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 646, distance 0.2
+0 # selected input tree index for patient 646
+5 # edges in selected input tree for patient 646
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 647, distance 0
+0 # selected input tree index for patient 647
+5 # edges in selected input tree for patient 647
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 648, distance 0.4
+0 # selected input tree index for patient 648
+5 # edges in selected input tree for patient 648
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 649, distance 0
+0 # selected input tree index for patient 649
+5 # edges in selected input tree for patient 649
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 650, distance 0.4
+0 # selected input tree index for patient 650
+5 # edges in selected input tree for patient 650
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 651, distance 0.4
+0 # selected input tree index for patient 651
+5 # edges in selected input tree for patient 651
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 652, distance 0.2
+0 # selected input tree index for patient 652
+5 # edges in selected input tree for patient 652
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 653, distance 0.2
+0 # selected input tree index for patient 653
+5 # edges in selected input tree for patient 653
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 654, distance 0.6
+0 # selected input tree index for patient 654
+5 # edges in selected input tree for patient 654
+TP53 GATA3
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+0 # cluster index for patient 655, distance 0
+0 # selected input tree index for patient 655
+5 # edges in selected input tree for patient 655
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 656, distance 0.4
+0 # selected input tree index for patient 656
+5 # edges in selected input tree for patient 656
+GL GATA3
+GL dummy
+GATA3 PIK3CA
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 657, distance 0.4
+0 # selected input tree index for patient 657
+5 # edges in selected input tree for patient 657
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 658, distance 0.2
+0 # selected input tree index for patient 658
+5 # edges in selected input tree for patient 658
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 659, distance 0.4
+0 # selected input tree index for patient 659
+5 # edges in selected input tree for patient 659
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 660, distance 0
+0 # selected input tree index for patient 660
+5 # edges in selected input tree for patient 660
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 661, distance 0.2
+0 # selected input tree index for patient 661
+5 # edges in selected input tree for patient 661
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 662, distance 0.2
+0 # selected input tree index for patient 662
+5 # edges in selected input tree for patient 662
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 663, distance 0
+0 # selected input tree index for patient 663
+5 # edges in selected input tree for patient 663
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 664, distance 0.2
+0 # selected input tree index for patient 664
+5 # edges in selected input tree for patient 664
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 665, distance 0
+0 # selected input tree index for patient 665
+5 # edges in selected input tree for patient 665
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 666, distance 0.2
+0 # selected input tree index for patient 666
+5 # edges in selected input tree for patient 666
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 667, distance 0.4
+0 # selected input tree index for patient 667
+5 # edges in selected input tree for patient 667
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 668, distance 0
+0 # selected input tree index for patient 668
+5 # edges in selected input tree for patient 668
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 669, distance 0.4
+0 # selected input tree index for patient 669
+5 # edges in selected input tree for patient 669
+CDH1 GATA3
+GL CDH1
+GL dummy
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 670, distance 0.6
+0 # selected input tree index for patient 670
+5 # edges in selected input tree for patient 670
+PIK3CA TP53
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+0 # cluster index for patient 671, distance 0.2
+0 # selected input tree index for patient 671
+5 # edges in selected input tree for patient 671
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 672, distance 0
+0 # selected input tree index for patient 672
+5 # edges in selected input tree for patient 672
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 673, distance 0.2
+0 # selected input tree index for patient 673
+5 # edges in selected input tree for patient 673
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 674, distance 0.4
+0 # selected input tree index for patient 674
+5 # edges in selected input tree for patient 674
+GATA3 PIK3CA
+GL GATA3
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 675, distance 0.2
+0 # selected input tree index for patient 675
+5 # edges in selected input tree for patient 675
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 676, distance 0
+0 # selected input tree index for patient 676
+5 # edges in selected input tree for patient 676
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 677, distance 0
+0 # selected input tree index for patient 677
+5 # edges in selected input tree for patient 677
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 678, distance 0
+0 # selected input tree index for patient 678
+5 # edges in selected input tree for patient 678
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 679, distance 0
+0 # selected input tree index for patient 679
+5 # edges in selected input tree for patient 679
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 680, distance 0
+0 # selected input tree index for patient 680
+5 # edges in selected input tree for patient 680
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 681, distance 0
+0 # selected input tree index for patient 681
+5 # edges in selected input tree for patient 681
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 682, distance 0.2
+0 # selected input tree index for patient 682
+5 # edges in selected input tree for patient 682
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 683, distance 0.2
+0 # selected input tree index for patient 683
+5 # edges in selected input tree for patient 683
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 684, distance 0
+0 # selected input tree index for patient 684
+5 # edges in selected input tree for patient 684
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 685, distance 0.2
+0 # selected input tree index for patient 685
+5 # edges in selected input tree for patient 685
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 686, distance 0.4
+0 # selected input tree index for patient 686
+5 # edges in selected input tree for patient 686
+GL PIK3CA
+GL dummy
+PIK3CA GATA3
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 687, distance 0.4
+0 # selected input tree index for patient 687
+5 # edges in selected input tree for patient 687
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 688, distance 0.4
+0 # selected input tree index for patient 688
+5 # edges in selected input tree for patient 688
+GATA3 TP53
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+1 # cluster index for patient 689, distance 0.2
+0 # selected input tree index for patient 689
+5 # edges in selected input tree for patient 689
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 690, distance 0.4
+0 # selected input tree index for patient 690
+5 # edges in selected input tree for patient 690
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 691, distance 0
+0 # selected input tree index for patient 691
+5 # edges in selected input tree for patient 691
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 692, distance 0
+0 # selected input tree index for patient 692
+5 # edges in selected input tree for patient 692
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 693, distance 0.4
+0 # selected input tree index for patient 693
+5 # edges in selected input tree for patient 693
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 694, distance 0
+0 # selected input tree index for patient 694
+5 # edges in selected input tree for patient 694
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 695, distance 0.4
+0 # selected input tree index for patient 695
+5 # edges in selected input tree for patient 695
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 696, distance 0
+0 # selected input tree index for patient 696
+5 # edges in selected input tree for patient 696
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 697, distance 0.2
+0 # selected input tree index for patient 697
+5 # edges in selected input tree for patient 697
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 698, distance 0.2
+0 # selected input tree index for patient 698
+5 # edges in selected input tree for patient 698
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 699, distance 0.2
+0 # selected input tree index for patient 699
+5 # edges in selected input tree for patient 699
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 700, distance 0
+0 # selected input tree index for patient 700
+5 # edges in selected input tree for patient 700
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 701, distance 0
+0 # selected input tree index for patient 701
+5 # edges in selected input tree for patient 701
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 702, distance 0.2
+0 # selected input tree index for patient 702
+5 # edges in selected input tree for patient 702
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 703, distance 0
+0 # selected input tree index for patient 703
+5 # edges in selected input tree for patient 703
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 704, distance 0.2
+0 # selected input tree index for patient 704
+5 # edges in selected input tree for patient 704
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 705, distance 0
+0 # selected input tree index for patient 705
+5 # edges in selected input tree for patient 705
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 706, distance 0
+0 # selected input tree index for patient 706
+5 # edges in selected input tree for patient 706
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 707, distance 0.2
+0 # selected input tree index for patient 707
+5 # edges in selected input tree for patient 707
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 708, distance 0
+0 # selected input tree index for patient 708
+5 # edges in selected input tree for patient 708
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 709, distance 0.2
+0 # selected input tree index for patient 709
+5 # edges in selected input tree for patient 709
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 710, distance 0.2
+0 # selected input tree index for patient 710
+5 # edges in selected input tree for patient 710
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 711, distance 0.4
+0 # selected input tree index for patient 711
+5 # edges in selected input tree for patient 711
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 712, distance 0.2
+0 # selected input tree index for patient 712
+5 # edges in selected input tree for patient 712
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 713, distance 0.2
+0 # selected input tree index for patient 713
+5 # edges in selected input tree for patient 713
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 714, distance 0
+0 # selected input tree index for patient 714
+5 # edges in selected input tree for patient 714
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 715, distance 0.2
+0 # selected input tree index for patient 715
+5 # edges in selected input tree for patient 715
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 716, distance 0.2
+0 # selected input tree index for patient 716
+5 # edges in selected input tree for patient 716
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 717, distance 0
+0 # selected input tree index for patient 717
+5 # edges in selected input tree for patient 717
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 718, distance 0.2
+0 # selected input tree index for patient 718
+5 # edges in selected input tree for patient 718
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 719, distance 0
+0 # selected input tree index for patient 719
+5 # edges in selected input tree for patient 719
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 720, distance 0.4
+0 # selected input tree index for patient 720
+5 # edges in selected input tree for patient 720
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 721, distance 0
+0 # selected input tree index for patient 721
+5 # edges in selected input tree for patient 721
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 722, distance 0.2
+0 # selected input tree index for patient 722
+5 # edges in selected input tree for patient 722
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 723, distance 0.2
+0 # selected input tree index for patient 723
+5 # edges in selected input tree for patient 723
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 724, distance 0.2
+0 # selected input tree index for patient 724
+5 # edges in selected input tree for patient 724
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 725, distance 0.2
+0 # selected input tree index for patient 725
+5 # edges in selected input tree for patient 725
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 726, distance 0.2
+0 # selected input tree index for patient 726
+5 # edges in selected input tree for patient 726
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 727, distance 0.4
+0 # selected input tree index for patient 727
+5 # edges in selected input tree for patient 727
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 728, distance 0.2
+0 # selected input tree index for patient 728
+5 # edges in selected input tree for patient 728
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 729, distance 0
+0 # selected input tree index for patient 729
+5 # edges in selected input tree for patient 729
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 730, distance 0
+0 # selected input tree index for patient 730
+5 # edges in selected input tree for patient 730
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 731, distance 0.4
+0 # selected input tree index for patient 731
+5 # edges in selected input tree for patient 731
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 732, distance 0.2
+0 # selected input tree index for patient 732
+5 # edges in selected input tree for patient 732
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 733, distance 0.4
+0 # selected input tree index for patient 733
+5 # edges in selected input tree for patient 733
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 734, distance 0
+0 # selected input tree index for patient 734
+5 # edges in selected input tree for patient 734
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 735, distance 0
+0 # selected input tree index for patient 735
+5 # edges in selected input tree for patient 735
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 736, distance 0
+0 # selected input tree index for patient 736
+5 # edges in selected input tree for patient 736
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 737, distance 0
+0 # selected input tree index for patient 737
+5 # edges in selected input tree for patient 737
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 738, distance 0.2
+0 # selected input tree index for patient 738
+5 # edges in selected input tree for patient 738
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 739, distance 0
+0 # selected input tree index for patient 739
+5 # edges in selected input tree for patient 739
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 740, distance 0.2
+0 # selected input tree index for patient 740
+5 # edges in selected input tree for patient 740
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 741, distance 0.2
+0 # selected input tree index for patient 741
+5 # edges in selected input tree for patient 741
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 742, distance 0
+0 # selected input tree index for patient 742
+5 # edges in selected input tree for patient 742
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 743, distance 0
+0 # selected input tree index for patient 743
+5 # edges in selected input tree for patient 743
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 744, distance 0.2
+0 # selected input tree index for patient 744
+5 # edges in selected input tree for patient 744
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 745, distance 0.2
+0 # selected input tree index for patient 745
+5 # edges in selected input tree for patient 745
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 746, distance 0.2
+0 # selected input tree index for patient 746
+5 # edges in selected input tree for patient 746
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 747, distance 0
+0 # selected input tree index for patient 747
+5 # edges in selected input tree for patient 747
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 748, distance 0.4
+0 # selected input tree index for patient 748
+5 # edges in selected input tree for patient 748
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 749, distance 0.4
+0 # selected input tree index for patient 749
+5 # edges in selected input tree for patient 749
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 750, distance 0.2
+0 # selected input tree index for patient 750
+5 # edges in selected input tree for patient 750
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 751, distance 0.8
+0 # selected input tree index for patient 751
+5 # edges in selected input tree for patient 751
+CDH1 PIK3CA
+CDH1 TP53
+PIK3CA GATA3
+GL CDH1
+GL dummy
+0 # cluster index for patient 752, distance 0
+0 # selected input tree index for patient 752
+5 # edges in selected input tree for patient 752
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 753, distance 0.4
+0 # selected input tree index for patient 753
+5 # edges in selected input tree for patient 753
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 754, distance 0
+0 # selected input tree index for patient 754
+5 # edges in selected input tree for patient 754
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 755, distance 0
+0 # selected input tree index for patient 755
+5 # edges in selected input tree for patient 755
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 756, distance 0.2
+0 # selected input tree index for patient 756
+5 # edges in selected input tree for patient 756
+GL TP53
+GL dummy
+TP53 PIK3CA
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 757, distance 0.4
+0 # selected input tree index for patient 757
+5 # edges in selected input tree for patient 757
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 758, distance 0.6
+0 # selected input tree index for patient 758
+5 # edges in selected input tree for patient 758
+CDH1 PIK3CA
+CDH1 TP53
+GL CDH1
+GL dummy
+dummy GATA3
+1 # cluster index for patient 759, distance 0.2
+0 # selected input tree index for patient 759
+5 # edges in selected input tree for patient 759
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 760, distance 0.4
+0 # selected input tree index for patient 760
+5 # edges in selected input tree for patient 760
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 761, distance 0
+0 # selected input tree index for patient 761
+5 # edges in selected input tree for patient 761
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 762, distance 0.2
+0 # selected input tree index for patient 762
+5 # edges in selected input tree for patient 762
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 763, distance 0.4
+0 # selected input tree index for patient 763
+5 # edges in selected input tree for patient 763
+PIK3CA TP53
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 764, distance 0.2
+0 # selected input tree index for patient 764
+5 # edges in selected input tree for patient 764
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 765, distance 0.2
+0 # selected input tree index for patient 765
+5 # edges in selected input tree for patient 765
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 766, distance 0.2
+0 # selected input tree index for patient 766
+5 # edges in selected input tree for patient 766
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 767, distance 0.4
+0 # selected input tree index for patient 767
+5 # edges in selected input tree for patient 767
+PIK3CA GATA3
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy TP53
+0 # cluster index for patient 768, distance 0.2
+0 # selected input tree index for patient 768
+5 # edges in selected input tree for patient 768
+GL CDH1
+GL TP53
+GL dummy
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 769, distance 0
+0 # selected input tree index for patient 769
+5 # edges in selected input tree for patient 769
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 770, distance 0
+0 # selected input tree index for patient 770
+5 # edges in selected input tree for patient 770
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 771, distance 0
+0 # selected input tree index for patient 771
+5 # edges in selected input tree for patient 771
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 772, distance 0.4
+0 # selected input tree index for patient 772
+5 # edges in selected input tree for patient 772
+GL GATA3
+GL dummy
+GATA3 PIK3CA
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 773, distance 0.4
+0 # selected input tree index for patient 773
+5 # edges in selected input tree for patient 773
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 774, distance 0
+0 # selected input tree index for patient 774
+5 # edges in selected input tree for patient 774
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 775, distance 0.4
+0 # selected input tree index for patient 775
+5 # edges in selected input tree for patient 775
+GL PIK3CA
+GL dummy
+PIK3CA CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 776, distance 0
+0 # selected input tree index for patient 776
+5 # edges in selected input tree for patient 776
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 777, distance 0.4
+0 # selected input tree index for patient 777
+5 # edges in selected input tree for patient 777
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 778, distance 0.2
+0 # selected input tree index for patient 778
+5 # edges in selected input tree for patient 778
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 779, distance 0
+0 # selected input tree index for patient 779
+5 # edges in selected input tree for patient 779
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 780, distance 0
+0 # selected input tree index for patient 780
+5 # edges in selected input tree for patient 780
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 781, distance 0
+0 # selected input tree index for patient 781
+5 # edges in selected input tree for patient 781
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 782, distance 0
+0 # selected input tree index for patient 782
+5 # edges in selected input tree for patient 782
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 783, distance 0.2
+0 # selected input tree index for patient 783
+5 # edges in selected input tree for patient 783
+GL CDH1
+GL dummy
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 784, distance 0.2
+0 # selected input tree index for patient 784
+5 # edges in selected input tree for patient 784
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 785, distance 0.2
+0 # selected input tree index for patient 785
+5 # edges in selected input tree for patient 785
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 786, distance 0.4
+0 # selected input tree index for patient 786
+5 # edges in selected input tree for patient 786
+GL CDH1
+GL dummy
+CDH1 PIK3CA
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 787, distance 0.2
+0 # selected input tree index for patient 787
+5 # edges in selected input tree for patient 787
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+1 # cluster index for patient 788, distance 0.4
+0 # selected input tree index for patient 788
+5 # edges in selected input tree for patient 788
+GL PIK3CA
+GL dummy
+PIK3CA GATA3
+dummy CDH1
+dummy TP53
+1 # cluster index for patient 789, distance 0.2
+0 # selected input tree index for patient 789
+5 # edges in selected input tree for patient 789
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 790, distance 0
+0 # selected input tree index for patient 790
+5 # edges in selected input tree for patient 790
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 791, distance 0.4
+0 # selected input tree index for patient 791
+5 # edges in selected input tree for patient 791
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 792, distance 0
+0 # selected input tree index for patient 792
+5 # edges in selected input tree for patient 792
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 793, distance 0.2
+0 # selected input tree index for patient 793
+5 # edges in selected input tree for patient 793
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 794, distance 0
+0 # selected input tree index for patient 794
+5 # edges in selected input tree for patient 794
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 795, distance 0
+0 # selected input tree index for patient 795
+5 # edges in selected input tree for patient 795
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 796, distance 0.2
+0 # selected input tree index for patient 796
+5 # edges in selected input tree for patient 796
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 797, distance 0
+0 # selected input tree index for patient 797
+5 # edges in selected input tree for patient 797
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 798, distance 0
+0 # selected input tree index for patient 798
+5 # edges in selected input tree for patient 798
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 799, distance 0.4
+0 # selected input tree index for patient 799
+5 # edges in selected input tree for patient 799
+CDH1 PIK3CA
+GL CDH1
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 800, distance 0
+0 # selected input tree index for patient 800
+5 # edges in selected input tree for patient 800
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 801, distance 0.4
+0 # selected input tree index for patient 801
+5 # edges in selected input tree for patient 801
+PIK3CA CDH1
+GL PIK3CA
+GL dummy
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 802, distance 0.2
+0 # selected input tree index for patient 802
+5 # edges in selected input tree for patient 802
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 803, distance 0.2
+0 # selected input tree index for patient 803
+5 # edges in selected input tree for patient 803
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 804, distance 0.2
+0 # selected input tree index for patient 804
+5 # edges in selected input tree for patient 804
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 805, distance 0
+0 # selected input tree index for patient 805
+5 # edges in selected input tree for patient 805
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 806, distance 0
+0 # selected input tree index for patient 806
+5 # edges in selected input tree for patient 806
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 807, distance 0.2
+0 # selected input tree index for patient 807
+5 # edges in selected input tree for patient 807
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+0 # cluster index for patient 808, distance 0
+0 # selected input tree index for patient 808
+5 # edges in selected input tree for patient 808
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+1 # cluster index for patient 809, distance 0.2
+0 # selected input tree index for patient 809
+5 # edges in selected input tree for patient 809
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+1 # cluster index for patient 810, distance 0.2
+0 # selected input tree index for patient 810
+5 # edges in selected input tree for patient 810
+GL GATA3
+GL dummy
+dummy CDH1
+dummy PIK3CA
+dummy TP53
+1 # cluster index for patient 811, distance 0.2
+0 # selected input tree index for patient 811
+5 # edges in selected input tree for patient 811
+GL PIK3CA
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy TP53
+0 # cluster index for patient 812, distance 0
+0 # selected input tree index for patient 812
+5 # edges in selected input tree for patient 812
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 813, distance 0
+0 # selected input tree index for patient 813
+5 # edges in selected input tree for patient 813
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+dummy PIK3CA
+0 # cluster index for patient 814, distance 0.2
+0 # selected input tree index for patient 814
+5 # edges in selected input tree for patient 814
+TP53 PIK3CA
+GL TP53
+GL dummy
+dummy CDH1
+dummy GATA3
+0 # cluster index for patient 815, distance 0.4
+0 # selected input tree index for patient 815
+5 # edges in selected input tree for patient 815
+TP53 PIK3CA
+PIK3CA GATA3
+GL TP53
+GL dummy
+dummy CDH1
