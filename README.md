@@ -5,13 +5,13 @@ Notice that this Github folder contains also:
 - RECAP folder: this is the Github folder that implements RECAP and can be reached following the link https://github.com/elkebir-group/RECAP.git.<br>
 
 # Notebooks
-The next sections will explain briefly each notebook with the implemented code.
+The next sections will briefly explain each notebook with the implemented code.
 
 ## patient_removal.ipynb
 This notebook consists of some analyses carried out on CloMu applied especially on the breast cancer dataset, with the objective of accessing what changes if we remove the patient with the largest number of trees. In this way, we can see if the normalization approach implemented by the authors of CloMu really works in practice.
 
 ## trees_distribution_analysis.ipynb
-With the code contained in this notebook, we analyze the relationship patient_trees, plotting some useful graphics and printing statistics. We consider both the breast cancer dataset and the AML dataset.
+With the code contained in this notebook, we analyze the relationship patient-trees, plotting useful graphics and printing some statistics. We consider both the breast cancer dataset and the AML dataset.
 
 ## iterative_clustering_breast.ipynb and iterative_clustering_AML.ipynb
 In these two notebookes we apply ensemble learning with CloMu, using two different algorithms to cluster training patients. Both the algorithms use CloMu to assign scores to patients, useful to then cluster them. The two notebooks only differ in the considered dataset: either the breast cancer dataset or the AML one.
